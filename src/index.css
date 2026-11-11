@@ -1,0 +1,16 @@
+@import "./styles/ref/style_0.css";
+@import "./styles/ref/style_1.css";
+@import "./styles/ref/style_2.css";
+@import "./styles/ref/style_3.css";
+@import "./styles/ref/style_4.css";
+@import "./styles/ref/style_5.css";
+@import "./styles/ref/style_6.css";
+@import "./styles/ref/style_7.css";
+@import "./styles/ref/style_8.css";
+@import "./styles/ref/style_9.css";
+@import "./styles/ref/style_10.css";
+@import "./styles/base.css";
+@import "./styles/nav-hero.css";
+
+html { scroll-behavior: smooth; }
+body { background: var(--grey-900); }

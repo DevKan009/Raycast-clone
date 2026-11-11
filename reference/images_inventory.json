@@ -1,0 +1,1019 @@
+[
+  {
+    "index": 0,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2FfeatureBackground.3bxd817ow3sdx.png&w=3840&q=100",
+    "alt": "Frame Background Image",
+    "width": "1793",
+    "height": "1011",
+    "localFile": "featureBackground_0.png",
+    "localUrl": "/assets/featureBackground_0.png"
+  },
+  {
+    "index": 1,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwallpaper.0abiqd6ysuhu6.png&w=48&q=70",
+    "alt": "mini version of desktop wallpaper image that is in the clipboard history",
+    "width": "20",
+    "height": "9",
+    "localFile": "wallpaper_1.png",
+    "localUrl": "/assets/wallpaper_1.png"
+  },
+  {
+    "index": 2,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmangos.062tyil4el1n0.jpeg&w=48&q=70",
+    "alt": "mini version of picture of two mangos",
+    "width": "20",
+    "height": "13",
+    "localFile": "mangos_2.jpeg",
+    "localUrl": "/assets/mangos_2.jpeg"
+  },
+  {
+    "index": 3,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmagic.0zwq2z389cq09.jpeg&w=48&q=70",
+    "alt": "mini version of a magician with a magic stick and a hat",
+    "width": "20",
+    "height": "11",
+    "localFile": "magic_3.jpeg",
+    "localUrl": "/assets/magic_3.jpeg"
+  },
+  {
+    "index": 4,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmagic-at-your-fingertips.1v4xjucno2nvv.png&w=48&q=70",
+    "alt": "mini version of magic at your fingertips screenshot",
+    "width": "20",
+    "height": "10",
+    "localFile": "magic-at-your-fingertips_4.png",
+    "localUrl": "/assets/magic-at-your-fingertips_4.png"
+  },
+  {
+    "index": 5,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommand-clipboard-history.237roft4bdmk2.png&w=48&q=70",
+    "alt": "Clipboard History Command Icon",
+    "width": "20",
+    "height": "20",
+    "localFile": "command-clipboard-history_5.png",
+    "localUrl": "/assets/command-clipboard-history_5.png"
+  },
+  {
+    "index": 6,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fraycast-package-bg.16e4947vz8jwt.png&w=48&q=70",
+    "alt": "Store Icon",
+    "width": "20",
+    "height": "20",
+    "localFile": "raycast-package-bg_6.png",
+    "localUrl": "/assets/raycast-package-bg_6.png"
+  },
+  {
+    "index": 7,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommand-clipboard-history.237roft4bdmk2.png&w=48&q=70",
+    "alt": "Store Icon",
+    "width": "20",
+    "height": "20",
+    "localFile": "command-clipboard-history_7.png",
+    "localUrl": "/assets/command-clipboard-history_7.png"
+  },
+  {
+    "index": 8,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommand-file-search-16.35r07y0pm2744.png&w=48&q=70",
+    "alt": "Search Files Icon",
+    "width": "20",
+    "height": "20",
+    "localFile": "command-file-search-16_8.png",
+    "localUrl": "/assets/command-file-search-16_8.png"
+  },
+  {
+    "index": 9,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcalendar-extension-dark.2n-895efngtnf.png&w=48&q=70",
+    "alt": "Calendar Icon",
+    "width": "20",
+    "height": "20",
+    "localFile": "calendar-extension-dark_9.png",
+    "localUrl": "/assets/calendar-extension-dark_9.png"
+  },
+  {
+    "index": 10,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fdictionary-extension-16.41-4mhpeo3pq_.png&w=48&q=70",
+    "alt": "Dictionary Icon",
+    "width": "20",
+    "height": "20",
+    "localFile": "dictionary-extension-16_10.png",
+    "localUrl": "/assets/dictionary-extension-16_10.png"
+  },
+  {
+    "index": 11,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommand-calculator-history.3a0cgc65gr0r4.png&w=48&q=70",
+    "alt": "Dictionary Icon",
+    "width": "20",
+    "height": "20",
+    "localFile": "command-calculator-history_11.png",
+    "localUrl": "/assets/command-calculator-history_11.png"
+  },
+  {
+    "index": 12,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcalendar-extension-dark.2n-895efngtnf.png&w=48&q=70",
+    "alt": "Calendar Icon",
+    "width": "20",
+    "height": "20",
+    "localFile": "calendar-extension-dark_12.png",
+    "localUrl": "/assets/calendar-extension-dark_12.png"
+  },
+  {
+    "index": 13,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommand-clipboard-history.237roft4bdmk2.png&w=48&q=70",
+    "alt": "Store Icon",
+    "width": "20",
+    "height": "20",
+    "localFile": "command-clipboard-history_13.png",
+    "localUrl": "/assets/command-clipboard-history_13.png"
+  },
+  {
+    "index": 14,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommand-file-search-16.35r07y0pm2744.png&w=48&q=70",
+    "alt": "Search Files Icon",
+    "width": "20",
+    "height": "20",
+    "localFile": "command-file-search-16_14.png",
+    "localUrl": "/assets/command-file-search-16_14.png"
+  },
+  {
+    "index": 15,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fdictionary-extension-16.41-4mhpeo3pq_.png&w=48&q=70",
+    "alt": "Dictionary Icon",
+    "width": "20",
+    "height": "20",
+    "localFile": "dictionary-extension-16_15.png",
+    "localUrl": "/assets/dictionary-extension-16_15.png"
+  },
+  {
+    "index": 16,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fweb-google.1zbcp-l9b-qyf.png&w=48&q=70",
+    "alt": "Google Icon",
+    "width": "20",
+    "height": "20",
+    "localFile": "web-google_16.png",
+    "localUrl": "/assets/web-google_16.png"
+  },
+  {
+    "index": 17,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fweb-duckduckgo.19k4dxocvqtjj.png&w=48&q=70",
+    "alt": "Duck Duck Go Icon",
+    "width": "20",
+    "height": "19",
+    "localFile": "web-duckduckgo_17.png",
+    "localUrl": "/assets/web-duckduckgo_17.png"
+  },
+  {
+    "index": 18,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Flinear-icon.png&w=128&q=70",
+    "alt": "",
+    "width": "56",
+    "height": "56",
+    "localFile": "linear-icon_18.png",
+    "localUrl": "/assets/linear-icon_18.png"
+  },
+  {
+    "index": 19,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Flinear-web.png&w=750&q=70",
+    "alt": "",
+    "width": "360",
+    "height": "360",
+    "localFile": "linear-web_19.png",
+    "localUrl": "/assets/linear-web_19.png"
+  },
+  {
+    "index": 20,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-translate-icon.png&w=128&q=70",
+    "alt": "",
+    "width": "56",
+    "height": "56",
+    "localFile": "google-translate-icon_20.png",
+    "localUrl": "/assets/google-translate-icon_20.png"
+  },
+  {
+    "index": 21,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-translate-web.png&w=750&q=70",
+    "alt": "",
+    "width": "360",
+    "height": "360",
+    "localFile": "google-translate-web_21.png",
+    "localUrl": "/assets/google-translate-web_21.png"
+  },
+  {
+    "index": 22,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fspotify-icon.png&w=128&q=70",
+    "alt": "",
+    "width": "56",
+    "height": "56",
+    "localFile": "spotify-icon_22.png",
+    "localUrl": "/assets/spotify-icon_22.png"
+  },
+  {
+    "index": 23,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fspotify-web.png&w=750&q=70",
+    "alt": "",
+    "width": "360",
+    "height": "360",
+    "localFile": "spotify-web_23.png",
+    "localUrl": "/assets/spotify-web_23.png"
+  },
+  {
+    "index": 24,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Farc-icon.png&w=128&q=70",
+    "alt": "",
+    "width": "56",
+    "height": "56",
+    "localFile": "arc-icon_24.png",
+    "localUrl": "/assets/arc-icon_24.png"
+  },
+  {
+    "index": 25,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Farc-web.png&w=750&q=70",
+    "alt": "",
+    "width": "360",
+    "height": "360",
+    "localFile": "arc-web_25.png",
+    "localUrl": "/assets/arc-web_25.png"
+  },
+  {
+    "index": 26,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftiny-png-icon.png&w=128&q=70",
+    "alt": "",
+    "width": "56",
+    "height": "56",
+    "localFile": "tiny-png-icon_26.png",
+    "localUrl": "/assets/tiny-png-icon_26.png"
+  },
+  {
+    "index": 27,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftiny-png-web.png&w=750&q=70",
+    "alt": "",
+    "width": "360",
+    "height": "360",
+    "localFile": "tiny-png-web_27.png",
+    "localUrl": "/assets/tiny-png-web_27.png"
+  },
+  {
+    "index": 28,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2F1password-icon.png&w=128&q=70",
+    "alt": "",
+    "width": "56",
+    "height": "56",
+    "localFile": "1password-icon_28.png",
+    "localUrl": "/assets/1password-icon_28.png"
+  },
+  {
+    "index": 29,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2F1password-web.png&w=750&q=70",
+    "alt": "",
+    "width": "360",
+    "height": "360",
+    "localFile": "1password-web_29.png",
+    "localUrl": "/assets/1password-web_29.png"
+  },
+  {
+    "index": 30,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fjira-icon.png&w=128&q=70",
+    "alt": "",
+    "width": "56",
+    "height": "56",
+    "localFile": "jira-icon_30.png",
+    "localUrl": "/assets/jira-icon_30.png"
+  },
+  {
+    "index": 31,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fjira-web.png&w=750&q=70",
+    "alt": "",
+    "width": "360",
+    "height": "360",
+    "localFile": "jira-web_31.png",
+    "localUrl": "/assets/jira-web_31.png"
+  },
+  {
+    "index": 32,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fslack-icon.png&w=128&q=70",
+    "alt": "",
+    "width": "56",
+    "height": "56",
+    "localFile": "slack-icon_32.png",
+    "localUrl": "/assets/slack-icon_32.png"
+  },
+  {
+    "index": 33,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fslack-web.png&w=750&q=70",
+    "alt": "",
+    "width": "360",
+    "height": "360",
+    "localFile": "slack-web_33.png",
+    "localUrl": "/assets/slack-web_33.png"
+  },
+  {
+    "index": 34,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fzoom-icon.png&w=128&q=70",
+    "alt": "",
+    "width": "56",
+    "height": "56",
+    "localFile": "zoom-icon_34.png",
+    "localUrl": "/assets/zoom-icon_34.png"
+  },
+  {
+    "index": 35,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fzoom-web.png&w=750&q=70",
+    "alt": "",
+    "width": "360",
+    "height": "360",
+    "localFile": "zoom-web_35.png",
+    "localUrl": "/assets/zoom-web_35.png"
+  },
+  {
+    "index": 36,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftimers-icon.png&w=128&q=70",
+    "alt": "",
+    "width": "56",
+    "height": "56",
+    "localFile": "timers-icon_36.png",
+    "localUrl": "/assets/timers-icon_36.png"
+  },
+  {
+    "index": 37,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftimers-web.png&w=750&q=70",
+    "alt": "",
+    "width": "360",
+    "height": "360",
+    "localFile": "timers-web_37.png",
+    "localUrl": "/assets/timers-web_37.png"
+  },
+  {
+    "index": 38,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fpomodoro-icon.png&w=128&q=70",
+    "alt": "",
+    "width": "56",
+    "height": "56",
+    "localFile": "pomodoro-icon_38.png",
+    "localUrl": "/assets/pomodoro-icon_38.png"
+  },
+  {
+    "index": 39,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fpomodoro-web.png&w=750&q=70",
+    "alt": "",
+    "width": "360",
+    "height": "360",
+    "localFile": "pomodoro-web_39.png",
+    "localUrl": "/assets/pomodoro-web_39.png"
+  },
+  {
+    "index": 40,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fnotion-icon.png&w=128&q=70",
+    "alt": "",
+    "width": "56",
+    "height": "56",
+    "localFile": "notion-icon_40.png",
+    "localUrl": "/assets/notion-icon_40.png"
+  },
+  {
+    "index": 41,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fnotion-web.png&w=750&q=70",
+    "alt": "",
+    "width": "360",
+    "height": "360",
+    "localFile": "notion-web_41.png",
+    "localUrl": "/assets/notion-web_41.png"
+  },
+  {
+    "index": 42,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftodoist-icon.png&w=128&q=70",
+    "alt": "",
+    "width": "56",
+    "height": "56",
+    "localFile": "todoist-icon_42.png",
+    "localUrl": "/assets/todoist-icon_42.png"
+  },
+  {
+    "index": 43,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftodoist-web.png&w=750&q=70",
+    "alt": "",
+    "width": "360",
+    "height": "360",
+    "localFile": "todoist-web_43.png",
+    "localUrl": "/assets/todoist-web_43.png"
+  },
+  {
+    "index": 44,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-search-icon.png&w=128&q=70",
+    "alt": "",
+    "width": "56",
+    "height": "56",
+    "localFile": "google-search-icon_44.png",
+    "localUrl": "/assets/google-search-icon_44.png"
+  },
+  {
+    "index": 45,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-search-web.png&w=750&q=70",
+    "alt": "",
+    "width": "360",
+    "height": "360",
+    "localFile": "google-search-web_45.png",
+    "localUrl": "/assets/google-search-web_45.png"
+  },
+  {
+    "index": 46,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fobsidian-icon.png&w=128&q=70",
+    "alt": "",
+    "width": "56",
+    "height": "56",
+    "localFile": "obsidian-icon_46.png",
+    "localUrl": "/assets/obsidian-icon_46.png"
+  },
+  {
+    "index": 47,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fobsidian-web.png&w=750&q=70",
+    "alt": "",
+    "width": "360",
+    "height": "360",
+    "localFile": "obsidian-web_47.png",
+    "localUrl": "/assets/obsidian-web_47.png"
+  },
+  {
+    "index": 48,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-chrome-icon.png&w=128&q=70",
+    "alt": "",
+    "width": "56",
+    "height": "56",
+    "localFile": "google-chrome-icon_48.png",
+    "localUrl": "/assets/google-chrome-icon_48.png"
+  },
+  {
+    "index": 49,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-chrome-web.png&w=750&q=70",
+    "alt": "",
+    "width": "360",
+    "height": "360",
+    "localFile": "google-chrome-web_49.png",
+    "localUrl": "/assets/google-chrome-web_49.png"
+  },
+  {
+    "index": 50,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fcleanshotx-icon.png&w=128&q=70",
+    "alt": "",
+    "width": "56",
+    "height": "56",
+    "localFile": "cleanshotx-icon_50.png",
+    "localUrl": "/assets/cleanshotx-icon_50.png"
+  },
+  {
+    "index": 51,
+    "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fcleanshotx-web.png&w=750&q=70",
+    "alt": "",
+    "width": "360",
+    "height": "360",
+    "localFile": "cleanshotx-web_51.png",
+    "localUrl": "/assets/cleanshotx-web_51.png"
+  },
+  {
+    "index": 52,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmore-extensions.3zzk4y--pp9zu.png&w=750&q=70",
+    "alt": "",
+    "width": "360",
+    "height": "413",
+    "localFile": "more-extensions_52.png",
+    "localUrl": "/assets/more-extensions_52.png"
+  },
+  {
+    "index": 53,
+    "src": "/_next/static/immutable/media/app-linear.14403iqs_49z0.webp",
+    "alt": "",
+    "width": "16",
+    "height": "16",
+    "localFile": "app-linear_53.webp",
+    "localUrl": "/assets/app-linear_53.webp"
+  },
+  {
+    "index": 54,
+    "src": "/_next/static/immutable/media/app-things.431g4_1xy5twk.webp",
+    "alt": "",
+    "width": "16",
+    "height": "16",
+    "localFile": "app-things_54.webp",
+    "localUrl": "/assets/app-things_54.webp"
+  },
+  {
+    "index": 55,
+    "src": "/_next/static/immutable/media/app-linear.14403iqs_49z0.webp",
+    "alt": "",
+    "width": "16",
+    "height": "16",
+    "localFile": "app-linear_55.webp",
+    "localUrl": "/assets/app-linear_55.webp"
+  },
+  {
+    "index": 56,
+    "src": "/_next/static/immutable/media/app-linear.14403iqs_49z0.webp",
+    "alt": "",
+    "width": "16",
+    "height": "16",
+    "localFile": "app-linear_56.webp",
+    "localUrl": "/assets/app-linear_56.webp"
+  },
+  {
+    "index": 57,
+    "src": "/_next/static/immutable/media/app-things.431g4_1xy5twk.webp",
+    "alt": "",
+    "width": "16",
+    "height": "16",
+    "localFile": "app-things_57.webp",
+    "localUrl": "/assets/app-things_57.webp"
+  },
+  {
+    "index": 58,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fguillermo.43ehvzlb1iwru.png&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "guillermo_58.png",
+    "localUrl": "/assets/guillermo_58.png"
+  },
+  {
+    "index": 59,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmkbhd.1csz04eivoyhz.jpg&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "mkbhd_59.jpg",
+    "localUrl": "/assets/mkbhd_59.jpg"
+  },
+  {
+    "index": 60,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fkoen.1xb9vpdchb9b3.png&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "koen_60.png",
+    "localUrl": "/assets/koen_60.png"
+  },
+  {
+    "index": 61,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Favstorm.2pq0kurbwqcso.jpeg&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "avstorm_61.jpeg",
+    "localUrl": "/assets/avstorm_61.jpeg"
+  },
+  {
+    "index": 62,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fadamwathan.33i8fz5y_7ful.png&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "adamwathan_62.png",
+    "localUrl": "/assets/adamwathan_62.png"
+  },
+  {
+    "index": 63,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwesbos.0l5k6c_jw7s8p.png&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "wesbos_63.png",
+    "localUrl": "/assets/wesbos_63.png"
+  },
+  {
+    "index": 64,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fridd.3n22sqo95ec7s.png&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "ridd_64.png",
+    "localUrl": "/assets/ridd_64.png"
+  },
+  {
+    "index": 65,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmxstbr.05qeg4078czy2.png&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "mxstbr_65.png",
+    "localUrl": "/assets/mxstbr_65.png"
+  },
+  {
+    "index": 66,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fzachholman.39x9pg5pv4kxn.png&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "zachholman_66.png",
+    "localUrl": "/assets/zachholman_66.png"
+  },
+  {
+    "index": 67,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fjustansub.3htnf11a7df9u.jpeg&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "justansub_67.jpeg",
+    "localUrl": "/assets/justansub_67.jpeg"
+  },
+  {
+    "index": 68,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fthekitze.0hejzuji1k85p.jpeg&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "thekitze_68.jpeg",
+    "localUrl": "/assets/thekitze_68.jpeg"
+  },
+  {
+    "index": 69,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fflornkm.1h6mokpamzpt8.jpeg&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "flornkm_69.jpeg",
+    "localUrl": "/assets/flornkm_69.jpeg"
+  },
+  {
+    "index": 70,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpugson.3h8cvd-ovyo2e.jpeg&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "pugson_70.jpeg",
+    "localUrl": "/assets/pugson_70.jpeg"
+  },
+  {
+    "index": 71,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Freece_dev.0_7ik91goooa4.jpeg&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "reece_dev_71.jpeg",
+    "localUrl": "/assets/reece_dev_71.jpeg"
+  },
+  {
+    "index": 72,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmrncst.3p8m-u2-k5e89.jpeg&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "mrncst_72.jpeg",
+    "localUrl": "/assets/mrncst_72.jpeg"
+  },
+  {
+    "index": 73,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2FUltraLinx.3r6cm_cyv6ya3.jpeg&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "UltraLinx_73.jpeg",
+    "localUrl": "/assets/UltraLinx_73.jpeg"
+  },
+  {
+    "index": 74,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fupinthezone.0xv1sxeai_x60.jpeg&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "upinthezone_74.jpeg",
+    "localUrl": "/assets/upinthezone_74.jpeg"
+  },
+  {
+    "index": 75,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsulco.089dqyg9mj2er.jpeg&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "sulco_75.jpeg",
+    "localUrl": "/assets/sulco_75.jpeg"
+  },
+  {
+    "index": 76,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fiamneubert.1kbe6z9zktk25.jpeg&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "iamneubert_76.jpeg",
+    "localUrl": "/assets/iamneubert_76.jpeg"
+  },
+  {
+    "index": 77,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwebjac.02ooc-fq6ov8x.jpeg&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "webjac_77.jpeg",
+    "localUrl": "/assets/webjac_77.jpeg"
+  },
+  {
+    "index": 78,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fgavmn.3o-90kigp6986.jpeg&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "gavmn_78.jpeg",
+    "localUrl": "/assets/gavmn_78.jpeg"
+  },
+  {
+    "index": 79,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fisabelsoasa.2nvgwwbq-8owq.jpg&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "isabelsoasa_79.jpg",
+    "localUrl": "/assets/isabelsoasa_79.jpg"
+  },
+  {
+    "index": 80,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsteventey.41xwmqisog7n9.jpeg&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "steventey_80.jpeg",
+    "localUrl": "/assets/steventey_80.jpeg"
+  },
+  {
+    "index": 81,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2FAdamWhitcroft.1s8uxhzi9623z.jpeg&w=96&q=70",
+    "alt": "Avatar",
+    "width": "48",
+    "height": "48",
+    "localFile": "AdamWhitcroft_81.jpeg",
+    "localUrl": "/assets/AdamWhitcroft_81.jpeg"
+  },
+  {
+    "index": 82,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fnotion.3w9opi3qbx14w.png&w=256&q=70",
+    "alt": "iMessage 2FA Raycast Extension command icon",
+    "width": "128",
+    "height": "128",
+    "localFile": "notion_82.png",
+    "localUrl": "/assets/notion_82.png"
+  },
+  {
+    "index": 83,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsnippets-blue-glass.12b4c3jsxgqqw.png&w=1920&q=90",
+    "alt": "Blue glass-effect visual backdrop",
+    "width": "800",
+    "height": "643",
+    "localFile": "snippets-blue-glass_83.png",
+    "localUrl": "/assets/snippets-blue-glass_83.png"
+  },
+  {
+    "index": 84,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fquicklinks-showcase.1-5j8fsgp_l5i.png&w=1200&q=70",
+    "alt": "Screenshot of Raycast showcasing the Figma Scratchad Quick Link",
+    "width": "582",
+    "height": "208",
+    "localFile": "quicklinks-showcase_84.png",
+    "localUrl": "/assets/quicklinks-showcase_84.png"
+  },
+  {
+    "index": 85,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fraycast-notes.0khgr6jj73_r6.png&w=3840&q=90",
+    "alt": "Raycast Notes",
+    "width": "1256",
+    "height": "1256",
+    "localFile": "raycast-notes_85.png",
+    "localUrl": "/assets/raycast-notes_85.png"
+  },
+  {
+    "index": 86,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fflight-tracker.0n21cubrybv-y.png&w=3840&q=90",
+    "alt": "Flight Tracker",
+    "width": "1257",
+    "height": "1256",
+    "localFile": "flight-tracker_86.png",
+    "localUrl": "/assets/flight-tracker_86.png"
+  },
+  {
+    "index": 87,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcalculator.44iwy8ski7hsb.png&w=3840&q=90",
+    "alt": "Calculator",
+    "width": "1257",
+    "height": "1256",
+    "localFile": "calculator_87.png",
+    "localUrl": "/assets/calculator_87.png"
+  },
+  {
+    "index": 88,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Ffile-search.1h2o4dmp-4j8e.png&w=3840&q=90",
+    "alt": "File Search",
+    "width": "1257",
+    "height": "1256",
+    "localFile": "file-search_88.png",
+    "localUrl": "/assets/file-search_88.png"
+  },
+  {
+    "index": 89,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fscript-commands.2n0r8racn9vfn.png&w=3840&q=90",
+    "alt": "Script Commands",
+    "width": "1257",
+    "height": "1256",
+    "localFile": "script-commands_89.png",
+    "localUrl": "/assets/script-commands_89.png"
+  },
+  {
+    "index": 90,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwindow-management.1-9qykokmqups.png&w=3840&q=90",
+    "alt": "Window Management",
+    "width": "1257",
+    "height": "1256",
+    "localFile": "window-management_90.png",
+    "localUrl": "/assets/window-management_90.png"
+  },
+  {
+    "index": 91,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fschedule.1_cr_7zp48ify.png&w=3840&q=90",
+    "alt": "My Schedule",
+    "width": "1257",
+    "height": "1256",
+    "localFile": "schedule_91.png",
+    "localUrl": "/assets/schedule_91.png"
+  },
+  {
+    "index": 92,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Freminders.120r2-tishh9a.png&w=3840&q=90",
+    "alt": "Apple Reminders",
+    "width": "1257",
+    "height": "1256",
+    "localFile": "reminders_92.png",
+    "localUrl": "/assets/reminders_92.png"
+  },
+  {
+    "index": 93,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Ftranslator.2-0te7yls0baq.png&w=3840&q=90",
+    "alt": "Translation",
+    "width": "1256",
+    "height": "1256",
+    "localFile": "translator_93.png",
+    "localUrl": "/assets/translator_93.png"
+  },
+  {
+    "index": 94,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Ffocus.1ii6df8wrisc6.png&w=3840&q=90",
+    "alt": "Raycast Focus",
+    "width": "1257",
+    "height": "1256",
+    "localFile": "focus_94.png",
+    "localUrl": "/assets/focus_94.png"
+  },
+  {
+    "index": 95,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fscreenshot-search.0p3ub7wrqbi86.png&w=3840&q=90",
+    "alt": "Search Screenshots",
+    "width": "1257",
+    "height": "1256",
+    "localFile": "screenshot-search_95.png",
+    "localUrl": "/assets/screenshot-search_95.png"
+  },
+  {
+    "index": 96,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Femoji-picker.1olkw8ma8bl7-.png&w=3840&q=90",
+    "alt": "Search Emojis and Symbols",
+    "width": "1257",
+    "height": "1256",
+    "localFile": "emoji-picker_96.png",
+    "localUrl": "/assets/emoji-picker_96.png"
+  },
+  {
+    "index": 97,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommunity-background.20de4iisgwlf-.png&w=1920&q=70",
+    "alt": "Background image",
+    "width": "800",
+    "height": "800",
+    "localFile": "community-background_97.png",
+    "localUrl": "/assets/community-background_97.png"
+  },
+  {
+    "index": 98,
+    "src": "https://i.ytimg.com/vi/NZwqx_dS-k0/hqdefault.jpg",
+    "alt": "Introducing Raycast Focus",
+    "localFile": "hqdefault_98.jpg",
+    "localUrl": "/assets/hqdefault_98.jpg"
+  },
+  {
+    "index": 99,
+    "src": "https://i.ytimg.com/vi/W9FPWzorLyI/hqdefault.jpg",
+    "alt": "Mastering Quicklinks in Raycast",
+    "localFile": "hqdefault_99.jpg",
+    "localUrl": "/assets/hqdefault_99.jpg"
+  },
+  {
+    "index": 100,
+    "src": "https://i.ytimg.com/vi/6knS3y39f7k/hqdefault.jpg",
+    "alt": "Raycast Notes is Finally Out",
+    "localFile": "hqdefault_100.jpg",
+    "localUrl": "/assets/hqdefault_100.jpg"
+  },
+  {
+    "index": 101,
+    "src": "https://i.ytimg.com/vi/A4bewhG4724/hqdefault.jpg",
+    "alt": "We Tested Apple's New Window Management Against Raycast",
+    "localFile": "hqdefault_101.jpg",
+    "localUrl": "/assets/hqdefault_101.jpg"
+  },
+  {
+    "index": 102,
+    "src": "https://i.ytimg.com/vi/yR2hnn7Ghko/hqdefault.jpg",
+    "alt": "You MUST change these Raycast settings ⚙️",
+    "localFile": "hqdefault_102.jpg",
+    "localUrl": "/assets/hqdefault_102.jpg"
+  },
+  {
+    "index": 103,
+    "src": "https://i.ytimg.com/vi/NuIpZoQwuVY/hqdefault.jpg",
+    "alt": "101 Things You Can Do With Raycast",
+    "localFile": "hqdefault_103.jpg",
+    "localUrl": "/assets/hqdefault_103.jpg"
+  },
+  {
+    "index": 104,
+    "src": "https://i.ytimg.com/vi/qobDloop1bg/hqdefault.jpg",
+    "alt": "7 more Raycast tricks to level up your productivity",
+    "localFile": "hqdefault_104.jpg",
+    "localUrl": "/assets/hqdefault_104.jpg"
+  },
+  {
+    "index": 105,
+    "src": "https://i.ytimg.com/vi/HDQIvbLCF7Y/hqdefault.jpg",
+    "alt": "Kitze shows Pedro his Raycast setup in Barcelona",
+    "localFile": "hqdefault_105.jpg",
+    "localUrl": "/assets/hqdefault_105.jpg"
+  },
+  {
+    "index": 106,
+    "src": "https://i.ytimg.com/vi/_DxukQdW1yg/hqdefault.jpg",
+    "alt": "12 months of Raycast Pro 🎉",
+    "localFile": "hqdefault_106.jpg",
+    "localUrl": "/assets/hqdefault_106.jpg"
+  },
+  {
+    "index": 107,
+    "src": "https://i.ytimg.com/vi/m5MDv9qwhU8/hqdefault.jpg",
+    "alt": "Max Stoiber Owns His Workflow with Raycast",
+    "localFile": "hqdefault_107.jpg",
+    "localUrl": "/assets/hqdefault_107.jpg"
+  },
+  {
+    "index": 108,
+    "src": "https://i.ytimg.com/vi/4Hi21ZpdrOc/hqdefault.jpg",
+    "alt": "Introducing Raycast AI Presets",
+    "localFile": "hqdefault_108.jpg",
+    "localUrl": "/assets/hqdefault_108.jpg"
+  },
+  {
+    "index": 109,
+    "src": "https://i.ytimg.com/vi/_P1b00n12PU/hqdefault.jpg",
+    "alt": "All About Raycast Snippets: Stop Repeating Yourself!",
+    "localFile": "hqdefault_109.jpg",
+    "localUrl": "/assets/hqdefault_109.jpg"
+  },
+  {
+    "index": 110,
+    "src": "https://i.ytimg.com/vi/RFwumqHLc8Y/hqdefault.jpg",
+    "alt": "Introducing a revamped AI Chat",
+    "localFile": "hqdefault_110.jpg",
+    "localUrl": "/assets/hqdefault_110.jpg"
+  },
+  {
+    "index": 111,
+    "src": "https://i.ytimg.com/vi/OHuLnaY7Nxs/hqdefault.jpg",
+    "alt": "He's a Raycast newbie. What can he do?",
+    "localFile": "hqdefault_111.jpg",
+    "localUrl": "/assets/hqdefault_111.jpg"
+  },
+  {
+    "index": 112,
+    "src": "https://i.ytimg.com/vi/Xc262WTsZoU/hqdefault.jpg",
+    "alt": "How we built the best emoji picker 🤖",
+    "localFile": "hqdefault_112.jpg",
+    "localUrl": "/assets/hqdefault_112.jpg"
+  },
+  {
+    "index": 113,
+    "src": "https://i.ytimg.com/vi/UUPStiOLKlU/hqdefault.jpg",
+    "alt": "What's in Wes Bos's Raycast",
+    "localFile": "hqdefault_113.jpg",
+    "localUrl": "/assets/hqdefault_113.jpg"
+  },
+  {
+    "index": 114,
+    "src": "https://i.ytimg.com/vi/9KvmDCy23g0/hqdefault.jpg",
+    "alt": "9 hidden Raycast tricks to up your game",
+    "localFile": "hqdefault_114.jpg",
+    "localUrl": "/assets/hqdefault_114.jpg"
+  },
+  {
+    "index": 115,
+    "src": "https://i.ytimg.com/vi/oy8jtxl7c2I/hqdefault.jpg",
+    "alt": "Our Extension Picks for UI Developers",
+    "localFile": "hqdefault_115.jpg",
+    "localUrl": "/assets/hqdefault_115.jpg"
+  },
+  {
+    "index": 116,
+    "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2FisolatedCube.06utybfu6soit.png&w=1920&q=70",
+    "alt": "",
+    "width": "800",
+    "height": "800",
+    "localFile": "isolatedCube_116.png",
+    "localUrl": "/assets/isolatedCube_116.png"
+  }
+]

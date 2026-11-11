@@ -1,0 +1,2310 @@
+{
+  "title": "Raycast - Your shortcut to everything",
+  "stylesInfo": {
+    "bodyBg": "rgb(7, 8, 10)",
+    "bodyColor": "rgb(255, 255, 255)",
+    "fontFamily": "Inter, \"Inter Fallback\", sans-serif"
+  },
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Your shortcut to everything.",
+      "fontSize": "64px",
+      "fontWeight": "600",
+      "lineHeight": "70.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H2",
+      "text": "Take shortcuts, not detours.",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "lineHeight": "normal",
+      "letterSpacing": "0.2px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H2",
+      "text": "It’s not about saving time.",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "lineHeight": "normal",
+      "letterSpacing": "0.2px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H2",
+      "text": "There’s an extension for that.",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "lineHeight": "normal",
+      "letterSpacing": "0.2px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H3",
+      "text": "Plus thousands more...",
+      "fontSize": "24px",
+      "fontWeight": "500",
+      "lineHeight": "normal",
+      "letterSpacing": "0.2px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H2",
+      "text": "Meet your new virtual assistant",
+      "fontSize": "32px",
+      "fontWeight": "500",
+      "lineHeight": "38.4px",
+      "letterSpacing": "-0.8px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H3",
+      "text": "AI Chat",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H3",
+      "text": "Quick AI",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H3",
+      "text": "AI Extensions",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H2",
+      "text": "Built for professionals like you.",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "lineHeight": "normal",
+      "letterSpacing": "0.2px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H2",
+      "text": "Don't repeat yourself.",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "lineHeight": "normal",
+      "letterSpacing": "0.2px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H5",
+      "text": "Snippets",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "0.2px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H5",
+      "text": "Quicklinks",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "0.2px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H5",
+      "text": "Hotkeys and Aliases",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "0.2px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H2",
+      "text": "Stay in the loop.",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "lineHeight": "normal",
+      "letterSpacing": "0.2px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H5",
+      "text": "Slack",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "lineHeight": "normal",
+      "letterSpacing": "0.2px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H5",
+      "text": "X/Twitter",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "lineHeight": "normal",
+      "letterSpacing": "0.2px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H3",
+      "text": "Build the perfect tools.",
+      "fontSize": "56px",
+      "fontWeight": "400",
+      "lineHeight": "65.52px",
+      "letterSpacing": "0.2px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H4",
+      "text": "Cross-platform",
+      "fontSize": "24px",
+      "fontWeight": "500",
+      "lineHeight": "38.4px",
+      "letterSpacing": "0.2px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H4",
+      "text": "Built-in UI",
+      "fontSize": "24px",
+      "fontWeight": "500",
+      "lineHeight": "38.4px",
+      "letterSpacing": "0.2px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H4",
+      "text": "Batteries included",
+      "fontSize": "24px",
+      "fontWeight": "500",
+      "lineHeight": "38.4px",
+      "letterSpacing": "0.2px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H4",
+      "text": "Publish to the Store",
+      "fontSize": "24px",
+      "fontWeight": "500",
+      "lineHeight": "38.4px",
+      "letterSpacing": "0.2px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H2",
+      "text": "Take the short way.",
+      "fontSize": "20px",
+      "fontWeight": "500",
+      "lineHeight": "normal",
+      "letterSpacing": "0.2px",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "tag": "H5",
+      "text": "Subscribe to our newsletter.",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "lineHeight": "22.4px",
+      "letterSpacing": "0.2px",
+      "color": "rgb(255, 255, 255)"
+    }
+  ],
+  "buttons": [
+    {
+      "tag": "A",
+      "text": "Store",
+      "href": "/store",
+      "className": "qZd0pW_navLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "6px"
+    },
+    {
+      "tag": "A",
+      "text": "Pro",
+      "href": "/pro",
+      "className": "qZd0pW_navLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "6px"
+    },
+    {
+      "tag": "A",
+      "text": "AI",
+      "href": "/core-features/ai",
+      "className": "qZd0pW_navLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "6px"
+    },
+    {
+      "tag": "A",
+      "text": "iOS",
+      "href": "/ios",
+      "className": "qZd0pW_navLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "6px"
+    },
+    {
+      "tag": "A",
+      "text": "Windows",
+      "href": "/windows",
+      "className": "qZd0pW_navLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "6px"
+    },
+    {
+      "tag": "A",
+      "text": "Teams",
+      "href": "/teams",
+      "className": "qZd0pW_navLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "6px"
+    },
+    {
+      "tag": "A",
+      "text": "Enterprise",
+      "href": "/enterprise",
+      "className": "qZd0pW_navLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "6px"
+    },
+    {
+      "tag": "A",
+      "text": "Blog",
+      "href": "/blog",
+      "className": "qZd0pW_navLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "6px"
+    },
+    {
+      "tag": "A",
+      "text": "Pricing",
+      "href": "/pricing",
+      "className": "qZd0pW_navLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "6px"
+    },
+    {
+      "tag": "A",
+      "text": "Log in",
+      "href": "/users/sign_in",
+      "className": "qZd0pW_navLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "6px"
+    },
+    {
+      "tag": "A",
+      "text": "Download",
+      "href": "/download/windows",
+      "className": "_3dJGfa_button _3dJGfa_light pSp8Ga_downloadButton",
+      "bg": "rgb(230, 230, 230)",
+      "color": "rgb(47, 48, 49)",
+      "borderRadius": "8px"
+    },
+    {
+      "tag": "A",
+      "text": "Log in",
+      "href": "/users/sign_in",
+      "className": "_3dJGfa_button _3dJGfa_light",
+      "bg": "rgb(230, 230, 230)",
+      "color": "rgb(47, 48, 49)",
+      "borderRadius": "8px"
+    },
+    {
+      "tag": "A",
+      "text": "Download for Windows",
+      "href": "/download/windows",
+      "className": "_3dJGfa_button _3dJGfa_light",
+      "bg": "rgb(230, 230, 230)",
+      "color": "rgb(47, 48, 49)",
+      "borderRadius": "8px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Install via WinGet",
+      "href": null,
+      "className": "j3Kqfa_trigger",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "4px"
+    },
+    {
+      "tag": "A",
+      "text": "The Raycast Keyboard",
+      "href": "/keyboard",
+      "className": "ezSJPa_announcement",
+      "bg": "rgb(19, 13, 14)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "1000px"
+    },
+    {
+      "tag": "A",
+      "text": "Download",
+      "href": "/download/windows",
+      "className": "_3dJGfa_button _3dJGfa_light o1EREW_downloadButton",
+      "bg": "rgb(230, 230, 230)",
+      "color": "rgb(47, 48, 49)",
+      "borderRadius": "8px"
+    },
+    {
+      "tag": "A",
+      "text": "Productivity",
+      "href": "#productivity",
+      "className": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Engineering",
+      "href": "#engineering",
+      "className": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(106, 107, 108)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Design",
+      "href": "#design",
+      "className": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(106, 107, 108)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Writing",
+      "href": "#writing",
+      "className": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(106, 107, 108)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Linear\n\nCreate, search and modify your issues without leaving your keyboard.",
+      "href": "https://www.raycast.com/linear/linear",
+      "className": "pFn2Lq_link",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "20px"
+    },
+    {
+      "tag": "A",
+      "text": "Google Translate\n\nUse Google Translate to effortlessly translate into multiple languages",
+      "href": "https://www.raycast.com/gebeto/translate",
+      "className": "pFn2Lq_link",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "20px"
+    },
+    {
+      "tag": "A",
+      "text": "Spotify\n\nSearch for music and podcasts, browse your library, and control playback.",
+      "href": "https://www.raycast.com/mattisssa/spotify-player",
+      "className": "pFn2Lq_link",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "20px"
+    },
+    {
+      "tag": "A",
+      "text": "Arc\n\nNavigate your open tabs or search through your browser history.",
+      "href": "https://www.raycast.com/the-browser-company/arc",
+      "className": "pFn2Lq_link",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "20px"
+    },
+    {
+      "tag": "A",
+      "text": "TinyPNG\n\nCompress the selected images in Finder with TinyPNG.",
+      "href": "https://www.raycast.com/kawamataryo/tinypng",
+      "className": "pFn2Lq_link",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "20px"
+    },
+    {
+      "tag": "A",
+      "text": "1Password\n\nEasily grab any password or credential from your 1Password vaults.",
+      "href": "https://www.raycast.com/khasbilegt/1password",
+      "className": "pFn2Lq_link",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "20px"
+    },
+    {
+      "tag": "A",
+      "text": "JIRA\n\nManage your JIRA issues and sprints without leaving your keyboard.",
+      "href": "https://www.raycast.com/raycast/jira",
+      "className": "pFn2Lq_link",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "20px"
+    },
+    {
+      "tag": "A",
+      "text": "Slack\n\nSet your presence, see unread messages and search your chats.",
+      "href": "https://www.raycast.com/mommertf/slack",
+      "className": "pFn2Lq_link",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "20px"
+    },
+    {
+      "tag": "A",
+      "text": "Zoom\n\nSee your upcoming calls and jump straight into them from Raycast.",
+      "href": "https://www.raycast.com/raycast/zoom",
+      "className": "pFn2Lq_link",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "20px"
+    },
+    {
+      "tag": "A",
+      "text": "Timers\n\nStart stopwatches and timers to keep track of your daily tasks.",
+      "href": "https://www.raycast.com/ThatNerd/timers",
+      "className": "pFn2Lq_link",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "20px"
+    },
+    {
+      "tag": "A",
+      "text": "Pomodoro\n\nControl pomodoro timers and see the current interval in the menu bar.",
+      "href": "https://www.raycast.com/asubbotin/pomodoro",
+      "className": "pFn2Lq_link",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "20px"
+    },
+    {
+      "tag": "A",
+      "text": "Notion\n\nThe fastest way to search and create Notion pages.",
+      "href": "https://www.raycast.com/notion/notion",
+      "className": "pFn2Lq_link",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "20px"
+    },
+    {
+      "tag": "A",
+      "text": "Todoist\n\nCheck your Todoist tasks and quickly create new ones",
+      "href": "https://www.raycast.com/doist/todoist",
+      "className": "pFn2Lq_link",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "20px"
+    },
+    {
+      "tag": "A",
+      "text": "Google Search\n\nNeed to know something fast? Google it straight from Raycast.",
+      "href": "https://www.raycast.com/mblode/google-search",
+      "className": "pFn2Lq_link",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "20px"
+    },
+    {
+      "tag": "A",
+      "text": "Obsidian\n\nCapture information, manage tasks and pin notes to your menu bar.",
+      "href": "https://www.raycast.com/marcjulian/obsidian",
+      "className": "pFn2Lq_link",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "20px"
+    },
+    {
+      "tag": "A",
+      "text": "Google Chrome\n\nSearch open tabs, bookmarks and history in Google Chrome.",
+      "href": "https://www.raycast.com/Codely/google-chrome",
+      "className": "pFn2Lq_link",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "20px"
+    },
+    {
+      "tag": "A",
+      "text": "CleanShot X\n\nTrigger CleanShot X screen captures right from your keyboard.",
+      "href": "https://www.raycast.com/Aayush9029/cleanshotx",
+      "className": "pFn2Lq_link",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "20px"
+    },
+    {
+      "tag": "A",
+      "text": "Plus thousands more...\nBrowse the store",
+      "href": "/store",
+      "className": "_3Yq4tG_browseMore",
+      "bg": "rgb(17, 18, 20)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "22px"
+    },
+    {
+      "tag": "A",
+      "text": "Browse thousands more",
+      "href": "/store",
+      "className": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Recent",
+      "href": null,
+      "className": "RhnfLq_header",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgba(255, 255, 255, 0.6)",
+      "borderRadius": "4px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Sync linear tasks",
+      "href": null,
+      "className": "V1XIQW_item",
+      "bg": "rgba(255, 255, 255, 0.1)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "4px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Create landing page for AI Agents",
+      "href": null,
+      "className": "V1XIQW_item",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "4px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Compress files",
+      "href": null,
+      "className": "V1XIQW_item",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "4px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Create Raycast extension",
+      "href": null,
+      "className": "V1XIQW_item",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "4px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Analyse website traffic",
+      "href": null,
+      "className": "V1XIQW_item",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "4px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Triage support queries",
+      "href": null,
+      "className": "V1XIQW_item",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "4px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Convert video",
+      "href": null,
+      "className": "V1XIQW_item",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "4px"
+    },
+    {
+      "tag": "A",
+      "text": "Learn more about Raycast AI",
+      "href": "/core-features/ai",
+      "className": "qz07da_link qz07da_right",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Send",
+      "href": null,
+      "className": "_3dJGfa_button _3dJGfa_light OvGovq_sendButton",
+      "bg": "rgb(230, 230, 230)",
+      "color": "rgb(47, 48, 49)",
+      "borderRadius": "4px"
+    },
+    {
+      "tag": "A",
+      "text": "And much, much more.",
+      "href": "./store",
+      "className": "_3QuK8a_text",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(67, 67, 69)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Learn more",
+      "href": "/core-features/notes",
+      "className": "_3QuK8a_link",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Get started",
+      "href": "https://developers.raycast.com/basics/getting-started",
+      "className": "DBt7hq_col DBt7hq_colLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Download for Windows",
+      "href": "/download/windows",
+      "className": "_3dJGfa_button _3dJGfa_light",
+      "bg": "rgb(230, 230, 230)",
+      "color": "rgb(47, 48, 49)",
+      "borderRadius": "8px"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Install via WinGet",
+      "href": null,
+      "className": "j3Kqfa_trigger",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "4px"
+    },
+    {
+      "tag": "A",
+      "text": "Store",
+      "href": "/store",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Pro",
+      "href": "/pro",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Teams",
+      "href": "/teams",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Pricing",
+      "href": "/pricing",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Changelog",
+      "href": "/changelog",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Browser Extension",
+      "href": "/browser-extension",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Developers",
+      "href": "/developers",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "iOS",
+      "href": "/ios",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Windows",
+      "href": "/windows",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Raycast 2.0",
+      "href": "/new",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "API Docs",
+      "href": "https://developers.raycast.com",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Manual",
+      "href": "/manual",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Troubleshooting",
+      "href": "/troubleshooting",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Raycast vs Alfred",
+      "href": "/raycast-vs-alfred",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "FAQ",
+      "href": "/faq",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Raycast AI",
+      "href": "/core-features/ai",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Raycast Notes",
+      "href": "/core-features/notes",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Raycast Focus",
+      "href": "/core-features/focus",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Clipboard History",
+      "href": "/core-features/clipboard-history",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Window Management",
+      "href": "/core-features/window-management",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Snippets",
+      "href": "/core-features/snippets",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "File Search",
+      "href": "/core-features/file-search",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Quicklinks",
+      "href": "/core-features/quicklinks",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Calculator",
+      "href": "/core-features/calculator",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Calendar",
+      "href": "/core-features/calendar",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "System",
+      "href": "/core-features/system",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Emoji Picker",
+      "href": "/core-features/emoji-picker",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Design Tools",
+      "href": "/store/category/design-tools",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Developer Tools",
+      "href": "/store/category/developer-tools",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Pomodoro Timer",
+      "href": "/store/category/pomodoro-timer",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Productivity",
+      "href": "/store/category/productivity",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Project Management",
+      "href": "/store/category/project-management",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Time Management",
+      "href": "/store/category/time-management",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Transcript",
+      "href": "/store/category/transcript",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Translation",
+      "href": "/store/category/translation",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Work From Home",
+      "href": "/store/category/work-from-home",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "AI",
+      "href": "/store/category/ai",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Manifesto",
+      "href": "/why",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Customers",
+      "href": "/customers",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Careers",
+      "href": "/careers",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Terms of Service",
+      "href": "/terms-of-service",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Privacy Policy",
+      "href": "/privacy",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Acceptable Use Policy",
+      "href": "/aup",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "DPA",
+      "href": "/dpa",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Trust Center",
+      "href": "https://trust.raycast.com",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "A",
+      "text": "Press Kit",
+      "href": "/press",
+      "className": "nhiC3q_footerLink",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(156, 156, 157)",
+      "borderRadius": "0px"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2FfeatureBackground.3bxd817ow3sdx.png&w=3840&q=100",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2FfeatureBackground.3bxd817ow3sdx.png&w=3840&q=100",
+      "alt": "Frame Background Image",
+      "width": 896,
+      "height": 505,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwallpaper.0abiqd6ysuhu6.png&w=48&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwallpaper.0abiqd6ysuhu6.png&w=48&q=70",
+      "alt": "mini version of desktop wallpaper image that is in the clipboard history",
+      "width": 24,
+      "height": 10,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmangos.062tyil4el1n0.jpeg&w=48&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmangos.062tyil4el1n0.jpeg&w=48&q=70",
+      "alt": "mini version of picture of two mangos",
+      "width": 24,
+      "height": 16,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmagic.0zwq2z389cq09.jpeg&w=48&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmagic.0zwq2z389cq09.jpeg&w=48&q=70",
+      "alt": "mini version of a magician with a magic stick and a hat",
+      "width": 24,
+      "height": 13,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmagic-at-your-fingertips.1v4xjucno2nvv.png&w=48&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmagic-at-your-fingertips.1v4xjucno2nvv.png&w=48&q=70",
+      "alt": "mini version of magic at your fingertips screenshot",
+      "width": 24,
+      "height": 12,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommand-clipboard-history.237roft4bdmk2.png&w=48&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommand-clipboard-history.237roft4bdmk2.png&w=48&q=70",
+      "alt": "Clipboard History Command Icon",
+      "width": 20,
+      "height": 20,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fraycast-package-bg.16e4947vz8jwt.png&w=48&q=70",
+      "currentSrc": "",
+      "alt": "Store Icon",
+      "width": 20,
+      "height": 20,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommand-clipboard-history.237roft4bdmk2.png&w=48&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommand-clipboard-history.237roft4bdmk2.png&w=48&q=70",
+      "alt": "Store Icon",
+      "width": 20,
+      "height": 20,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommand-file-search-16.35r07y0pm2744.png&w=48&q=70",
+      "currentSrc": "",
+      "alt": "Search Files Icon",
+      "width": 20,
+      "height": 20,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcalendar-extension-dark.2n-895efngtnf.png&w=48&q=70",
+      "currentSrc": "",
+      "alt": "Calendar Icon",
+      "width": 20,
+      "height": 20,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fdictionary-extension-16.41-4mhpeo3pq_.png&w=48&q=70",
+      "currentSrc": "",
+      "alt": "Dictionary Icon",
+      "width": 20,
+      "height": 20,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommand-calculator-history.3a0cgc65gr0r4.png&w=48&q=70",
+      "currentSrc": "",
+      "alt": "Dictionary Icon",
+      "width": 20,
+      "height": 20,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcalendar-extension-dark.2n-895efngtnf.png&w=48&q=70",
+      "currentSrc": "",
+      "alt": "Calendar Icon",
+      "width": 20,
+      "height": 20,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommand-clipboard-history.237roft4bdmk2.png&w=48&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommand-clipboard-history.237roft4bdmk2.png&w=48&q=70",
+      "alt": "Store Icon",
+      "width": 20,
+      "height": 20,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommand-file-search-16.35r07y0pm2744.png&w=48&q=70",
+      "currentSrc": "",
+      "alt": "Search Files Icon",
+      "width": 20,
+      "height": 20,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fdictionary-extension-16.41-4mhpeo3pq_.png&w=48&q=70",
+      "currentSrc": "",
+      "alt": "Dictionary Icon",
+      "width": 20,
+      "height": 20,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fweb-google.1zbcp-l9b-qyf.png&w=48&q=70",
+      "currentSrc": "",
+      "alt": "Google Icon",
+      "width": 20,
+      "height": 20,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fweb-duckduckgo.19k4dxocvqtjj.png&w=48&q=70",
+      "currentSrc": "",
+      "alt": "Duck Duck Go Icon",
+      "width": 20,
+      "height": 19,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Flinear-icon.png&w=128&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Flinear-icon.png&w=128&q=70",
+      "alt": "",
+      "width": 61,
+      "height": 61,
+      "className": "pFn2Lq_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Flinear-web.png&w=750&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Flinear-web.png&w=750&q=70",
+      "alt": "",
+      "width": 360,
+      "height": 360,
+      "className": "pFn2Lq_image"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-translate-icon.png&w=128&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-translate-icon.png&w=128&q=70",
+      "alt": "",
+      "width": 61,
+      "height": 61,
+      "className": "pFn2Lq_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-translate-web.png&w=750&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-translate-web.png&w=750&q=70",
+      "alt": "",
+      "width": 360,
+      "height": 360,
+      "className": "pFn2Lq_image"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fspotify-icon.png&w=128&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fspotify-icon.png&w=128&q=70",
+      "alt": "",
+      "width": 61,
+      "height": 61,
+      "className": "pFn2Lq_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fspotify-web.png&w=750&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fspotify-web.png&w=750&q=70",
+      "alt": "",
+      "width": 360,
+      "height": 360,
+      "className": "pFn2Lq_image"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Farc-icon.png&w=128&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Farc-icon.png&w=128&q=70",
+      "alt": "",
+      "width": 61,
+      "height": 61,
+      "className": "pFn2Lq_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Farc-web.png&w=750&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Farc-web.png&w=750&q=70",
+      "alt": "",
+      "width": 360,
+      "height": 360,
+      "className": "pFn2Lq_image"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftiny-png-icon.png&w=128&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftiny-png-icon.png&w=128&q=70",
+      "alt": "",
+      "width": 61,
+      "height": 61,
+      "className": "pFn2Lq_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftiny-png-web.png&w=750&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftiny-png-web.png&w=750&q=70",
+      "alt": "",
+      "width": 360,
+      "height": 360,
+      "className": "pFn2Lq_image"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2F1password-icon.png&w=128&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2F1password-icon.png&w=128&q=70",
+      "alt": "",
+      "width": 61,
+      "height": 61,
+      "className": "pFn2Lq_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2F1password-web.png&w=750&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2F1password-web.png&w=750&q=70",
+      "alt": "",
+      "width": 360,
+      "height": 360,
+      "className": "pFn2Lq_image"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fjira-icon.png&w=128&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fjira-icon.png&w=128&q=70",
+      "alt": "",
+      "width": 61,
+      "height": 61,
+      "className": "pFn2Lq_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fjira-web.png&w=750&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fjira-web.png&w=750&q=70",
+      "alt": "",
+      "width": 360,
+      "height": 360,
+      "className": "pFn2Lq_image"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fslack-icon.png&w=128&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fslack-icon.png&w=128&q=70",
+      "alt": "",
+      "width": 61,
+      "height": 61,
+      "className": "pFn2Lq_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fslack-web.png&w=750&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fslack-web.png&w=750&q=70",
+      "alt": "",
+      "width": 360,
+      "height": 360,
+      "className": "pFn2Lq_image"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fzoom-icon.png&w=128&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fzoom-icon.png&w=128&q=70",
+      "alt": "",
+      "width": 61,
+      "height": 61,
+      "className": "pFn2Lq_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fzoom-web.png&w=750&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fzoom-web.png&w=750&q=70",
+      "alt": "",
+      "width": 360,
+      "height": 360,
+      "className": "pFn2Lq_image"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftimers-icon.png&w=128&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftimers-icon.png&w=128&q=70",
+      "alt": "",
+      "width": 61,
+      "height": 61,
+      "className": "pFn2Lq_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftimers-web.png&w=750&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftimers-web.png&w=750&q=70",
+      "alt": "",
+      "width": 360,
+      "height": 360,
+      "className": "pFn2Lq_image"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fpomodoro-icon.png&w=128&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fpomodoro-icon.png&w=128&q=70",
+      "alt": "",
+      "width": 61,
+      "height": 61,
+      "className": "pFn2Lq_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fpomodoro-web.png&w=750&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fpomodoro-web.png&w=750&q=70",
+      "alt": "",
+      "width": 360,
+      "height": 360,
+      "className": "pFn2Lq_image"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fnotion-icon.png&w=128&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fnotion-icon.png&w=128&q=70",
+      "alt": "",
+      "width": 61,
+      "height": 61,
+      "className": "pFn2Lq_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fnotion-web.png&w=750&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fnotion-web.png&w=750&q=70",
+      "alt": "",
+      "width": 360,
+      "height": 360,
+      "className": "pFn2Lq_image"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftodoist-icon.png&w=128&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftodoist-icon.png&w=128&q=70",
+      "alt": "",
+      "width": 61,
+      "height": 61,
+      "className": "pFn2Lq_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftodoist-web.png&w=750&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftodoist-web.png&w=750&q=70",
+      "alt": "",
+      "width": 360,
+      "height": 360,
+      "className": "pFn2Lq_image"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-search-icon.png&w=128&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-search-icon.png&w=128&q=70",
+      "alt": "",
+      "width": 61,
+      "height": 61,
+      "className": "pFn2Lq_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-search-web.png&w=750&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-search-web.png&w=750&q=70",
+      "alt": "",
+      "width": 360,
+      "height": 360,
+      "className": "pFn2Lq_image"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fobsidian-icon.png&w=128&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fobsidian-icon.png&w=128&q=70",
+      "alt": "",
+      "width": 61,
+      "height": 61,
+      "className": "pFn2Lq_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fobsidian-web.png&w=750&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fobsidian-web.png&w=750&q=70",
+      "alt": "",
+      "width": 360,
+      "height": 360,
+      "className": "pFn2Lq_image"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-chrome-icon.png&w=128&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-chrome-icon.png&w=128&q=70",
+      "alt": "",
+      "width": 61,
+      "height": 61,
+      "className": "pFn2Lq_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-chrome-web.png&w=750&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-chrome-web.png&w=750&q=70",
+      "alt": "",
+      "width": 360,
+      "height": 360,
+      "className": "pFn2Lq_image"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fcleanshotx-icon.png&w=128&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fcleanshotx-icon.png&w=128&q=70",
+      "alt": "",
+      "width": 61,
+      "height": 61,
+      "className": "pFn2Lq_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fcleanshotx-web.png&w=750&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fcleanshotx-web.png&w=750&q=70",
+      "alt": "",
+      "width": 360,
+      "height": 360,
+      "className": "pFn2Lq_image"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmore-extensions.3zzk4y--pp9zu.png&w=750&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmore-extensions.3zzk4y--pp9zu.png&w=750&q=70",
+      "alt": "",
+      "width": 360,
+      "height": 413,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/static/immutable/media/app-linear.14403iqs_49z0.webp",
+      "currentSrc": "https://www.raycast.com/_next/static/immutable/media/app-linear.14403iqs_49z0.webp",
+      "alt": "",
+      "width": 120,
+      "height": 120,
+      "className": "ACYmNa_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/static/immutable/media/app-things.431g4_1xy5twk.webp",
+      "currentSrc": "https://www.raycast.com/_next/static/immutable/media/app-things.431g4_1xy5twk.webp",
+      "alt": "",
+      "width": 120,
+      "height": 120,
+      "className": "ACYmNa_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/static/immutable/media/app-linear.14403iqs_49z0.webp",
+      "currentSrc": "https://www.raycast.com/_next/static/immutable/media/app-linear.14403iqs_49z0.webp",
+      "alt": "",
+      "width": 120,
+      "height": 120,
+      "className": "ACYmNa_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/static/immutable/media/app-linear.14403iqs_49z0.webp",
+      "currentSrc": "https://www.raycast.com/_next/static/immutable/media/app-linear.14403iqs_49z0.webp",
+      "alt": "",
+      "width": 120,
+      "height": 120,
+      "className": "ACYmNa_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/static/immutable/media/app-things.431g4_1xy5twk.webp",
+      "currentSrc": "https://www.raycast.com/_next/static/immutable/media/app-things.431g4_1xy5twk.webp",
+      "alt": "",
+      "width": 120,
+      "height": 120,
+      "className": "ACYmNa_icon"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fguillermo.43ehvzlb1iwru.png&w=96&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fguillermo.43ehvzlb1iwru.png&w=96&q=70",
+      "alt": "Avatar",
+      "width": 48,
+      "height": 48,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmkbhd.1csz04eivoyhz.jpg&w=96&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmkbhd.1csz04eivoyhz.jpg&w=96&q=70",
+      "alt": "Avatar",
+      "width": 48,
+      "height": 48,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fkoen.1xb9vpdchb9b3.png&w=96&q=70",
+      "currentSrc": "",
+      "alt": "Avatar",
+      "width": 46,
+      "height": 46,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Favstorm.2pq0kurbwqcso.jpeg&w=96&q=70",
+      "currentSrc": "",
+      "alt": "Avatar",
+      "width": 46,
+      "height": 46,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fadamwathan.33i8fz5y_7ful.png&w=96&q=70",
+      "currentSrc": "",
+      "alt": "Avatar",
+      "width": 46,
+      "height": 46,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwesbos.0l5k6c_jw7s8p.png&w=96&q=70",
+      "currentSrc": "",
+      "alt": "Avatar",
+      "width": 46,
+      "height": 46,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fridd.3n22sqo95ec7s.png&w=96&q=70",
+      "currentSrc": "",
+      "alt": "Avatar",
+      "width": 46,
+      "height": 46,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmxstbr.05qeg4078czy2.png&w=96&q=70",
+      "currentSrc": "",
+      "alt": "Avatar",
+      "width": 46,
+      "height": 46,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fzachholman.39x9pg5pv4kxn.png&w=96&q=70",
+      "currentSrc": "",
+      "alt": "Avatar",
+      "width": 46,
+      "height": 46,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fjustansub.3htnf11a7df9u.jpeg&w=96&q=70",
+      "currentSrc": "",
+      "alt": "Avatar",
+      "width": 46,
+      "height": 46,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fthekitze.0hejzuji1k85p.jpeg&w=96&q=70",
+      "currentSrc": "",
+      "alt": "Avatar",
+      "width": 46,
+      "height": 46,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fflornkm.1h6mokpamzpt8.jpeg&w=96&q=70",
+      "currentSrc": "",
+      "alt": "Avatar",
+      "width": 46,
+      "height": 46,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpugson.3h8cvd-ovyo2e.jpeg&w=96&q=70",
+      "currentSrc": "",
+      "alt": "Avatar",
+      "width": 46,
+      "height": 46,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Freece_dev.0_7ik91goooa4.jpeg&w=96&q=70",
+      "currentSrc": "",
+      "alt": "Avatar",
+      "width": 46,
+      "height": 46,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmrncst.3p8m-u2-k5e89.jpeg&w=96&q=70",
+      "currentSrc": "",
+      "alt": "Avatar",
+      "width": 46,
+      "height": 46,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2FUltraLinx.3r6cm_cyv6ya3.jpeg&w=96&q=70",
+      "currentSrc": "",
+      "alt": "Avatar",
+      "width": 46,
+      "height": 46,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fupinthezone.0xv1sxeai_x60.jpeg&w=96&q=70",
+      "currentSrc": "",
+      "alt": "Avatar",
+      "width": 46,
+      "height": 46,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsulco.089dqyg9mj2er.jpeg&w=96&q=70",
+      "currentSrc": "",
+      "alt": "Avatar",
+      "width": 46,
+      "height": 46,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fiamneubert.1kbe6z9zktk25.jpeg&w=96&q=70",
+      "currentSrc": "",
+      "alt": "Avatar",
+      "width": 46,
+      "height": 46,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwebjac.02ooc-fq6ov8x.jpeg&w=96&q=70",
+      "currentSrc": "",
+      "alt": "Avatar",
+      "width": 46,
+      "height": 46,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fgavmn.3o-90kigp6986.jpeg&w=96&q=70",
+      "currentSrc": "",
+      "alt": "Avatar",
+      "width": 46,
+      "height": 46,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fisabelsoasa.2nvgwwbq-8owq.jpg&w=96&q=70",
+      "currentSrc": "",
+      "alt": "Avatar",
+      "width": 46,
+      "height": 46,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsteventey.41xwmqisog7n9.jpeg&w=96&q=70",
+      "currentSrc": "",
+      "alt": "Avatar",
+      "width": 46,
+      "height": 46,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2FAdamWhitcroft.1s8uxhzi9623z.jpeg&w=96&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2FAdamWhitcroft.1s8uxhzi9623z.jpeg&w=96&q=70",
+      "alt": "Avatar",
+      "width": 48,
+      "height": 48,
+      "className": "ojsiSq_avatar NFhuXW_avatar"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fnotion.3w9opi3qbx14w.png&w=256&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fnotion.3w9opi3qbx14w.png&w=256&q=70",
+      "alt": "iMessage 2FA Raycast Extension command icon",
+      "width": 64,
+      "height": 64,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsnippets-blue-glass.12b4c3jsxgqqw.png&w=1920&q=90",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsnippets-blue-glass.12b4c3jsxgqqw.png&w=1920&q=90",
+      "alt": "Blue glass-effect visual backdrop",
+      "width": 400,
+      "height": 322,
+      "className": "frj_5G_snippetsBackdrop"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fquicklinks-showcase.1-5j8fsgp_l5i.png&w=1200&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fquicklinks-showcase.1-5j8fsgp_l5i.png&w=1200&q=70",
+      "alt": "Screenshot of Raycast showcasing the Figma Scratchad Quick Link",
+      "width": 582,
+      "height": 207,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fraycast-notes.0khgr6jj73_r6.png&w=3840&q=90",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fraycast-notes.0khgr6jj73_r6.png&w=1920&q=90",
+      "alt": "Raycast Notes",
+      "width": 471,
+      "height": 471,
+      "className": "_3QuK8a_featureImage _3QuK8a_featureImageActive"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fflight-tracker.0n21cubrybv-y.png&w=3840&q=90",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fflight-tracker.0n21cubrybv-y.png&w=1920&q=90",
+      "alt": "Flight Tracker",
+      "width": 471,
+      "height": 471,
+      "className": "_3QuK8a_featureImage"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcalculator.44iwy8ski7hsb.png&w=3840&q=90",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcalculator.44iwy8ski7hsb.png&w=1920&q=90",
+      "alt": "Calculator",
+      "width": 471,
+      "height": 471,
+      "className": "_3QuK8a_featureImage"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Ffile-search.1h2o4dmp-4j8e.png&w=3840&q=90",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Ffile-search.1h2o4dmp-4j8e.png&w=1920&q=90",
+      "alt": "File Search",
+      "width": 471,
+      "height": 471,
+      "className": "_3QuK8a_featureImage"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fscript-commands.2n0r8racn9vfn.png&w=3840&q=90",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fscript-commands.2n0r8racn9vfn.png&w=1920&q=90",
+      "alt": "Script Commands",
+      "width": 471,
+      "height": 471,
+      "className": "_3QuK8a_featureImage"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwindow-management.1-9qykokmqups.png&w=3840&q=90",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwindow-management.1-9qykokmqups.png&w=1920&q=90",
+      "alt": "Window Management",
+      "width": 471,
+      "height": 471,
+      "className": "_3QuK8a_featureImage"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fschedule.1_cr_7zp48ify.png&w=3840&q=90",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fschedule.1_cr_7zp48ify.png&w=1920&q=90",
+      "alt": "My Schedule",
+      "width": 471,
+      "height": 471,
+      "className": "_3QuK8a_featureImage"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Freminders.120r2-tishh9a.png&w=3840&q=90",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Freminders.120r2-tishh9a.png&w=1920&q=90",
+      "alt": "Apple Reminders",
+      "width": 471,
+      "height": 471,
+      "className": "_3QuK8a_featureImage"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Ftranslator.2-0te7yls0baq.png&w=3840&q=90",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Ftranslator.2-0te7yls0baq.png&w=1920&q=90",
+      "alt": "Translation",
+      "width": 471,
+      "height": 471,
+      "className": "_3QuK8a_featureImage"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Ffocus.1ii6df8wrisc6.png&w=3840&q=90",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Ffocus.1ii6df8wrisc6.png&w=1920&q=90",
+      "alt": "Raycast Focus",
+      "width": 471,
+      "height": 471,
+      "className": "_3QuK8a_featureImage"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fscreenshot-search.0p3ub7wrqbi86.png&w=3840&q=90",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fscreenshot-search.0p3ub7wrqbi86.png&w=1920&q=90",
+      "alt": "Search Screenshots",
+      "width": 471,
+      "height": 471,
+      "className": "_3QuK8a_featureImage"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Femoji-picker.1olkw8ma8bl7-.png&w=3840&q=90",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Femoji-picker.1olkw8ma8bl7-.png&w=1920&q=90",
+      "alt": "Search Emojis and Symbols",
+      "width": 471,
+      "height": 471,
+      "className": "_3QuK8a_featureImage"
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommunity-background.20de4iisgwlf-.png&w=1920&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommunity-background.20de4iisgwlf-.png&w=1920&q=70",
+      "alt": "Background image",
+      "width": 800,
+      "height": 643,
+      "className": "MQiDUG_bgImg"
+    },
+    {
+      "src": "https://i.ytimg.com/vi/NZwqx_dS-k0/hqdefault.jpg",
+      "currentSrc": "https://i.ytimg.com/vi/NZwqx_dS-k0/hqdefault.jpg",
+      "alt": "Introducing Raycast Focus",
+      "width": 480,
+      "height": 360,
+      "className": ""
+    },
+    {
+      "src": "https://i.ytimg.com/vi/W9FPWzorLyI/hqdefault.jpg",
+      "currentSrc": "https://i.ytimg.com/vi/W9FPWzorLyI/hqdefault.jpg",
+      "alt": "Mastering Quicklinks in Raycast",
+      "width": 480,
+      "height": 360,
+      "className": ""
+    },
+    {
+      "src": "https://i.ytimg.com/vi/6knS3y39f7k/hqdefault.jpg",
+      "currentSrc": "https://i.ytimg.com/vi/6knS3y39f7k/hqdefault.jpg",
+      "alt": "Raycast Notes is Finally Out",
+      "width": 480,
+      "height": 360,
+      "className": ""
+    },
+    {
+      "src": "https://i.ytimg.com/vi/A4bewhG4724/hqdefault.jpg",
+      "currentSrc": "https://i.ytimg.com/vi/A4bewhG4724/hqdefault.jpg",
+      "alt": "We Tested Apple's New Window Management Against Raycast",
+      "width": 480,
+      "height": 360,
+      "className": ""
+    },
+    {
+      "src": "https://i.ytimg.com/vi/yR2hnn7Ghko/hqdefault.jpg",
+      "currentSrc": "https://i.ytimg.com/vi/yR2hnn7Ghko/hqdefault.jpg",
+      "alt": "You MUST change these Raycast settings ⚙️",
+      "width": 480,
+      "height": 360,
+      "className": ""
+    },
+    {
+      "src": "https://i.ytimg.com/vi/NuIpZoQwuVY/hqdefault.jpg",
+      "currentSrc": "https://i.ytimg.com/vi/NuIpZoQwuVY/hqdefault.jpg",
+      "alt": "101 Things You Can Do With Raycast",
+      "width": 480,
+      "height": 360,
+      "className": ""
+    },
+    {
+      "src": "https://i.ytimg.com/vi/qobDloop1bg/hqdefault.jpg",
+      "currentSrc": "https://i.ytimg.com/vi/qobDloop1bg/hqdefault.jpg",
+      "alt": "7 more Raycast tricks to level up your productivity",
+      "width": 480,
+      "height": 360,
+      "className": ""
+    },
+    {
+      "src": "https://i.ytimg.com/vi/HDQIvbLCF7Y/hqdefault.jpg",
+      "currentSrc": "https://i.ytimg.com/vi/HDQIvbLCF7Y/hqdefault.jpg",
+      "alt": "Kitze shows Pedro his Raycast setup in Barcelona",
+      "width": 480,
+      "height": 360,
+      "className": ""
+    },
+    {
+      "src": "https://i.ytimg.com/vi/_DxukQdW1yg/hqdefault.jpg",
+      "currentSrc": "https://i.ytimg.com/vi/_DxukQdW1yg/hqdefault.jpg",
+      "alt": "12 months of Raycast Pro 🎉",
+      "width": 480,
+      "height": 360,
+      "className": ""
+    },
+    {
+      "src": "https://i.ytimg.com/vi/m5MDv9qwhU8/hqdefault.jpg",
+      "currentSrc": "https://i.ytimg.com/vi/m5MDv9qwhU8/hqdefault.jpg",
+      "alt": "Max Stoiber Owns His Workflow with Raycast",
+      "width": 480,
+      "height": 360,
+      "className": ""
+    },
+    {
+      "src": "https://i.ytimg.com/vi/4Hi21ZpdrOc/hqdefault.jpg",
+      "currentSrc": "https://i.ytimg.com/vi/4Hi21ZpdrOc/hqdefault.jpg",
+      "alt": "Introducing Raycast AI Presets",
+      "width": 480,
+      "height": 360,
+      "className": ""
+    },
+    {
+      "src": "https://i.ytimg.com/vi/_P1b00n12PU/hqdefault.jpg",
+      "currentSrc": "https://i.ytimg.com/vi/_P1b00n12PU/hqdefault.jpg",
+      "alt": "All About Raycast Snippets: Stop Repeating Yourself!",
+      "width": 480,
+      "height": 360,
+      "className": ""
+    },
+    {
+      "src": "https://i.ytimg.com/vi/RFwumqHLc8Y/hqdefault.jpg",
+      "currentSrc": "https://i.ytimg.com/vi/RFwumqHLc8Y/hqdefault.jpg",
+      "alt": "Introducing a revamped AI Chat",
+      "width": 480,
+      "height": 360,
+      "className": ""
+    },
+    {
+      "src": "https://i.ytimg.com/vi/OHuLnaY7Nxs/hqdefault.jpg",
+      "currentSrc": "https://i.ytimg.com/vi/OHuLnaY7Nxs/hqdefault.jpg",
+      "alt": "He's a Raycast newbie. What can he do?",
+      "width": 480,
+      "height": 360,
+      "className": ""
+    },
+    {
+      "src": "https://i.ytimg.com/vi/Xc262WTsZoU/hqdefault.jpg",
+      "currentSrc": "https://i.ytimg.com/vi/Xc262WTsZoU/hqdefault.jpg",
+      "alt": "How we built the best emoji picker 🤖",
+      "width": 480,
+      "height": 360,
+      "className": ""
+    },
+    {
+      "src": "https://i.ytimg.com/vi/UUPStiOLKlU/hqdefault.jpg",
+      "currentSrc": "https://i.ytimg.com/vi/UUPStiOLKlU/hqdefault.jpg",
+      "alt": "What's in Wes Bos's Raycast",
+      "width": 480,
+      "height": 360,
+      "className": ""
+    },
+    {
+      "src": "https://i.ytimg.com/vi/9KvmDCy23g0/hqdefault.jpg",
+      "currentSrc": "https://i.ytimg.com/vi/9KvmDCy23g0/hqdefault.jpg",
+      "alt": "9 hidden Raycast tricks to up your game",
+      "width": 480,
+      "height": 360,
+      "className": ""
+    },
+    {
+      "src": "https://i.ytimg.com/vi/oy8jtxl7c2I/hqdefault.jpg",
+      "currentSrc": "https://i.ytimg.com/vi/oy8jtxl7c2I/hqdefault.jpg",
+      "alt": "Our Extension Picks for UI Developers",
+      "width": 480,
+      "height": 360,
+      "className": ""
+    },
+    {
+      "src": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2FisolatedCube.06utybfu6soit.png&w=1920&q=70",
+      "currentSrc": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2FisolatedCube.06utybfu6soit.png&w=1920&q=70",
+      "alt": "",
+      "width": 800,
+      "height": 800,
+      "className": "nhiC3q_bgImg"
+    }
+  ],
+  "videos": [],
+  "svgCount": 169,
+  "sampleSvgs": [
+    {
+      "index": 0,
+      "viewBox": "0 0 48 48",
+      "width": 0,
+      "height": 0,
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 48 48\" class=\"pSp8Ga_logo\"><path fill=\"#FF6363\" fill-rule=\"evenodd\" d=\"M12 30.99V36L-.01 23.99l2.516-2.499zM17.01 36H12l12.011 12.01 2.506-2.505zm28.487-9.497L48 24 24 0l-2.503 2.503L30.98 12h-5.732l-6.62-6.614-2.506 2.503 4.122 4.122h-2.869v18.625H36V27.77l4.122 4.122 2.503-2.506L36 22.747v-5.732zM13.253 10.747l-2.503 2.506 2.686 2.686 2.503-2.506zm21.314 21.314-2.495 2.503 2.686 2.686 2.506-2.503zM7.878 16.121l-2.503 2.504L12 25.253v-5.012zM27.756 36h-5.009l6.628 6.625 2.503-2.503z\" clip-rule=\"evenodd\"></path></svg>"
+    },
+    {
+      "index": 1,
+      "viewBox": "0 0 93 24",
+      "width": 93,
+      "height": 24,
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 93 24\" class=\"pSp8Ga_logoFull\"><g clip-path=\"url(#logo-full_svg__a)\"><path fill=\"#FF6363\" fill-rule=\"evenodd\" d=\"M6 15.491v2.504l-6-6 1.251-1.251zm2.504 2.504H6l6 6 1.251-1.251zm14.24-4.747 1.253-1.253-12-12-1.25 1.256 4.747 4.747h-2.868L9.312 2.691 8.061 3.942l2.06 2.061h-1.44v9.314h9.314v-1.44l2.061 2.06 1.251-1.25-3.312-3.314v-2.87zM6.626 5.374 5.37 6.627 6.714 7.97l1.252-1.252zM17.282 16.03l-1.252 1.253 1.343 1.344 1.253-1.253zM3.939 8.06 2.686 9.315 6 12.627v-2.506zM13.88 18h-2.506l3.313 3.314 1.253-1.253z\" clip-rule=\"evenodd\"></path><path fill=\"#E6E6E6\" d=\"M90.987 17.98q-1.214 0-1.89-.659-.678-.661-.678-1.825v-4.8h-1.45V8.899h1.458l.26-2.4h1.707v2.4h2.227v1.8h-2.227v4.538a.95.95 0 0 0 .256.667.88.88 0 0 0 .68.278h1.29v1.799zM82.268 18.15q-1.616 0-2.6-.77a3.45 3.45 0 0 1-1.259-2.049h2.143c.093.312.301.577.582.742.344.199.737.296 1.134.28 1.143 0 1.717-.32 1.717-.937q0-.462-.539-.706a6 6 0 0 0-1.302-.389 16 16 0 0 1-1.538-.376 2.67 2.67 0 0 1-1.314-.875q-.535-.64-.537-1.681a2.38 2.38 0 0 1 .905-1.903q.909-.758 2.52-.757c1.074 0 1.92.24 2.56.719a3.22 3.22 0 0 1 1.215 1.94h-2.146q-.343-.857-1.624-.857-1.374 0-1.373.86a.74.74 0 0 0 .386.64c.293.18.62.296.96.345q.64.109 1.26.291.645.184 1.26.451c.399.181.737.475.971.845.272.435.407.942.389 1.455a2.4 2.4 0 0 1-.96 1.974q-.959.756-2.81.758M75.88 9.636q-.991-.89-2.773-.89-1.425 0-2.386.766a3.6 3.6 0 0 0-1.28 1.979h2.026c.103-.297.3-.553.56-.728a1.8 1.8 0 0 1 1.072-.303 1.92 1.92 0 0 1 1.317.427 1.51 1.51 0 0 1 .48 1.197v.436h-2.31q-1.607 0-2.514.8a2.59 2.59 0 0 0-.907 2.019 2.66 2.66 0 0 0 .844 2.033q.845.8 2.24.8a3.4 3.4 0 0 0 1.658-.385c.411-.2.759-.51 1.005-.896h.083l.16 1.12h1.715v-5.92q.002-1.56-.99-2.455m-.975 4.852a1.83 1.83 0 0 1-.6 1.44q-.595.53-1.627.53-.751 0-1.149-.34a1.08 1.08 0 0 1-.4-.866c0-.8.523-1.197 1.55-1.197h2.226zM64.021 18.17q-1.95 0-3.117-1.252-1.166-1.25-1.168-3.462c0-1.476.39-2.624 1.164-3.46q1.162-1.251 3.121-1.25 1.59 0 2.637.849a4 4 0 0 1 1.389 2.147h-1.965a2.2 2.2 0 0 0-2.06-1.197 2.08 2.08 0 0 0-1.683.76q-.64.764-.64 2.15 0 1.388.64 2.153a2.08 2.08 0 0 0 1.682.763 2.21 2.21 0 0 0 2.06-1.2h1.966a4.03 4.03 0 0 1-1.39 2.15q-1.041.848-2.636.848M52.43 21.432l1.371-3.43-3.683-9.082h2.143l2.486 6.427h.082l2.49-6.427h2.142l-4.975 12.512zM48.267 9.636q-.99-.89-2.774-.89-1.423 0-2.386.766a3.57 3.57 0 0 0-1.27 1.979h2.024c.103-.297.299-.553.56-.728a1.8 1.8 0 0 1 1.072-.303q.835 0 1.316.427a1.5 1.5 0 0 1 .48 1.197v.436h-2.32q-1.6 0-2.513.8a2.59 2.59 0 0 0-.909 2.019 2.66 2.66 0 0 0 .845 2.025q.845.8 2.24.8a3.4 3.4 0 0 0 1.656-.385c.412-.2.76-.51 1.006-.896h.082l.17 1.12h1.712v-5.92q0-1.552-.99-2.447m-.978 4.852a1.83 1.83 0 0 1-.6 1.44q-.595.53-1.628.53-.751 0-1.15-.34a1.09 1.09 0 0 1-.4-.866q.01-1.194 1.55-1.197h2.228zM37.152 13.456q.46-.122.88-.346.49-.268.909-.64c.336-.31.595-.693.757-1.12.194-.502.29-1.036.283-1.574q0-1.714-1.094-2.746-1.096-1.032-2.848-1.027h-4.972v12h2.143v-4.454h1.625L37.923 18h2.4zM33.21 11.65v-3.76h2.654c.608 0 1.088.16 1.44.494.352.335.531.792.531 1.386q0 .892-.534 1.389c-.392.34-.9.517-1.42.491z\"></path></g><defs><clipPath id=\"logo-full_svg__a\"><path fill=\"#fff\" d=\"M0 0h92.622v24H0z\"></path></clipPath></defs></svg>"
+    },
+    {
+      "index": 2,
+      "viewBox": "0 0 16 16",
+      "width": 16,
+      "height": 16,
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M0 0h7.584v7.584H0zm8.416 0h7.583v7.584H8.416zm-.832 8.416H0V16h7.584zm.832 0h7.583V16H8.416z\" clip-rule=\"evenodd\"></path></svg>"
+    },
+    {
+      "index": 3,
+      "viewBox": "0 0 16 16",
+      "width": 16,
+      "height": 16,
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M0 0h7.584v7.584H0zm8.416 0h7.583v7.584H8.416zm-.832 8.416H0V16h7.584zm.832 0h7.583V16H8.416z\" clip-rule=\"evenodd\"></path></svg>"
+    },
+    {
+      "index": 4,
+      "viewBox": "0 0 16 16",
+      "width": 16,
+      "height": 16,
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M9.75 4.75 13.25 8m0 0-3.5 3.25M13.25 8H2.75\"></path></svg>"
+    },
+    {
+      "index": 5,
+      "viewBox": null,
+      "width": "485",
+      "height": "168",
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"485\" height=\"168\" fill=\"none\" style=\"position: absolute; top: 0px; left: 0px;\"><g opacity=\"0.4\"><g filter=\"url(#menu-bar-leading_svg__a)\"><path fill=\"#fff\" d=\"M33.509 19.749q.165 0 .517.04.359.031.812.175.453.143.923.461a3.4 3.4 0 0 1 .867.892 9 9 0 0 0-.302.215 4 4 0 0 0-.581.557 3.4 3.4 0 0 0-.573.915q-.24.55-.239 1.313 0 .876.303 1.48.31.605.716.98.414.373.732.549.327.167.35.175a12 12 0 0 1-.12.358 9 9 0 0 1-.35.828 7.3 7.3 0 0 1-.604 1.05q-.342...."
+    },
+    {
+      "index": 6,
+      "viewBox": null,
+      "width": "471",
+      "height": "26",
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"471\" height=\"26\" fill=\"none\" style=\"position: absolute; top: 12px; right: 17.5px;\"><g opacity=\"0.5\"><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M18.005 7.757a.876.876 0 0 1 1.239 0l.527-.528-.527.528a.876.876 0 0 1 0 1.238L17.65 10.59 16.41 9.35zm.715 6.023-.71-.708-4.65 4.845a4.75 4.75 0 0 1-2.339 1.334l-.039.009-3.06.72a.75.75 0 0 1-.902-.902l.73-3.1a4.75 4.75 0 0 1 1.333-2.338l4.845-4.65-.708-.71a.75.75 0 0 1 1.06-1.06l1.07 1.07 1.594-1.594a2.376 2...."
+    },
+    {
+      "index": 7,
+      "viewBox": "0 0 16 16",
+      "width": 16,
+      "height": 16,
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" style=\"transform: translateY(1px);\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M6.25 4.75 2.75 8m0 0 3.5 3.25M2.75 8h10.5\"></path></svg>"
+    },
+    {
+      "index": 8,
+      "viewBox": "0 0 16 16",
+      "width": 11,
+      "height": 11,
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M12.25 5.75 8 10.25l-4.25-4.5\"></path></svg>"
+    },
+    {
+      "index": 9,
+      "viewBox": "0 0 21 20",
+      "width": "21",
+      "height": "20",
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg width=\"21\" height=\"20\" viewBox=\"0 0 21 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"10.5\" cy=\"10\" r=\"8.75\" fill=\"#151515\"></circle><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.40911 11.7997V13.0905L4.31396 9.99532L4.96254 9.35167L7.40911 11.7997ZM8.69993 13.0905H7.40911L10.5043 16.1856L11.15 15.5406L8.69993 13.0905ZM16.041 10.6439L16.6861 9.99814L10.5014 3.81348L9.85638 4.45924L12.3001 6.90581H10.8229L9.11707 5.20137L8.47131 5.84642L9.5335 6.90862H8.79419V11.7082H13.5938V10.9661L14.656 12.0283L15.3017 11.3832L13.5938 9.67526V8.19803L16.041 10.6439ZM7.73199 6.58293L7.08693 7.22869L7.77912 7.92087L8.42418 7.27511L7.73199 6.58293ZM13.2245 12.0754L12.5815 12.7205L13.2737 13.4126L13.9188 12.7669L13.2245 12.0754ZM6.34762 7.968L5.70186 8.61376L7.40911 10.321V9.0295L6.34762 7.968ZM11.4701 13.0905H10.1786L11.8858 14.7977L12.5316 14.152L11.4701 13.0905Z\" fill=\"#FF6363\"></path></svg>"
+    },
+    {
+      "index": 10,
+      "viewBox": "0 0 21 20",
+      "width": "21",
+      "height": "20",
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg width=\"21\" height=\"20\" viewBox=\"0 0 21 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.5 3C6.6326 3 3.5 6.1326 3.5 10C3.5 13.0939 5.50675 15.7152 8.28699 16.6433C8.63505 16.7078 8.76397 16.4929 8.76397 16.3039C8.76397 16.1363 8.75967 15.698 8.75537 15.1136C6.80878 15.5347 6.39626 14.1768 6.39626 14.1768C6.07827 13.3689 5.61848 13.1498 5.61848 13.1498C4.9825 12.7158 5.66575 12.7244 5.66575 12.7244C6.36618 12.7759 6.74002 13.4463 6.74002 13.4463C7.36311 14.5163 8.37722 14.2069 8.77686 14.0264C8.84131 13.5752 9.02179 13.2658 9.21946 13.0896C7.6682 12.9177 6.0353 12.3161 6.0353 9.63474C6.0353 8.86986 6.30602 8.24678 6.75721 7.75691C6.68416 7.57643 6.44352 6.8674 6.82167 5.90485C6.82167 5.90485 7.41037 5.71578 8.74678 6.62247C9.3054 6.46777 9.9027 6.39042 10.5 6.38613C11.093 6.39042 11.6946 6.46777 12.2532 6.62247C13.5896 5.71578 14.1783 5.90485 14.1783 5.90485C14.5608 6.8674 14.3201 7.58072 14.2471 7.75691C14.694 8.24678 14.9647 8.86986 14.9647 9.63474C14.9647 12.3247 13.3275 12.9134 11.7676 13.0896C12.0169 13.3045 12.2446 13.7342 12.2446 14.3874C12.2446 15.3241 12.236 16.0761 12.236 16.3082C12.236 16.4972 12.3607 16.7121 12.7173 16.6433C15.4975 15.7152 17.5 13.0939 17.5 10.0043C17.5 6.1326 14.3674 3 10.5 3Z\" fill=\"white\"></path></svg>"
+    },
+    {
+      "index": 11,
+      "viewBox": "0 0 16 16",
+      "width": 20,
+      "height": 20,
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M8.75 2v3.25a1 1 0 0 0 1 1H13m.25.164v5.836a2 2 0 0 1-2 2h-6.5a2 2 0 0 1-2-2v-8.5a2 2 0 0 1 2-2h3.836a1 1 0 0 1 .707.293l3.664 3.664a1 1 0 0 1 .293.707Z\"></path></svg>"
+    },
+    {
+      "index": 12,
+      "viewBox": "0 0 16 16",
+      "width": 20,
+      "height": 20,
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M4.25 7.75 2.539 9.654a2.692 2.692 0 1 0 3.807 3.807L8.25 11.75m3.5-3.5 1.711-1.904A2.692 2.692 0 1 0 9.654 2.54L7.75 4.25m-1 5 2.5-2.5\"></path></svg>"
+    },
+    {
+      "index": 13,
+      "viewBox": "0 0 16 16",
+      "width": 16,
+      "height": 16,
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" style=\"transform: translateY(1px);\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M6.25 4.75 2.75 8m0 0 3.5 3.25M2.75 8h10.5\"></path></svg>"
+    },
+    {
+      "index": 14,
+      "viewBox": "0 0 16 16",
+      "width": 11,
+      "height": 11,
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M5.75 9.5s.656 1.25 2.25 1.25c1.594 0 2.25-1.25 2.25-1.25m4-1.5a6.25 6.25 0 1 1-12.5 0 6.25 6.25 0 0 1 12.5 0Z\"></path><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.5 6a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0ZM10.5 6a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Z\"></path></svg>"
+    },
+    {
+      "index": 15,
+      "viewBox": "0 0 16 16",
+      "width": 24,
+      "height": 24,
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M9.75 4.75 13.25 8m0 0-3.5 3.25M13.25 8H2.75\"></path></svg>"
+    },
+    {
+      "index": 16,
+      "viewBox": "0 0 16 16",
+      "width": 14,
+      "height": 14,
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M8.795 1.75h-1.59a.25.25 0 0 0-.245.201l-.39 1.951a.25.25 0 0 1-.374.166L4.517 3.063a.25.25 0 0 0-.3.033L3.14 4.116a.25.25 0 0 0-.047.303l.99 1.782a.25.25 0 0 1-.17.366l-1.963.393a.25.25 0 0 0-.201.245v1.569a.25.25 0 0 0 .225.249l1.914.19a.25.25 0 0 1 .199.361L3.08 11.59a.25.25 0 0 0 .046.288l.99.99a.25.25 0 0 0 .298.041l1.78-.989a.25.25 0 0 1 .368.174l.358 1.952a.25.25 0 0 0 .246.205h1.666a.25.25 0 0 0 .246-.205l.358-1.952a.25.25 0 0 1 .368-.174l1.78.99a.25.25 0 0 0 .298-.042l.99-.99a.25.25 0 0 0 .046-.288l-1.007-2.015a.25.25 0 0 1 .199-.36l1.914-.191a.25.25 0 0 0 .225-.25V7.206a.25.25 0 0 0-.201-.245l-1.963-.393a.25.25 0 0 1-.17-.366l.992-1.786a.25.25 0 0 0-.041-.298l-.984-.984a.25.25 0 0 0-.298-.041L9.8 4.084a.25.25 0 0 1-.366-.17L9.04 1.951a.25.25 0 0 0-.245-.201Z\"></path><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M9.25 8a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0Z\"></path></svg>"
+    },
+    {
+      "index": 17,
+      "viewBox": "0 0 29 28",
+      "width": "29",
+      "height": "28",
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg width=\"29\" height=\"28\" viewBox=\"0 0 29 28\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.3788 16.4002V18.1213L6.25195 13.9944L7.11672 13.1362L10.3788 16.4002ZM12.0999 18.1213H10.3788L14.5057 22.2481L15.3667 21.3881L12.0999 18.1213ZM21.8881 14.8592L22.7481 13.9982L14.5019 5.75195L13.6418 6.61297L16.9002 9.87506H14.9306L12.6561 7.60247L11.7951 8.46255L13.2113 9.87881H12.2256V16.2783H18.625V15.2887L20.0413 16.705L20.9023 15.8449L18.625 13.5677V11.598L21.8881 14.8592ZM10.8093 9.44455L9.94924 10.3056L10.8722 11.2285L11.7322 10.3675L10.8093 9.44455ZM18.1326 16.7679L17.2754 17.6279L18.1983 18.5508L19.0583 17.6898L18.1326 16.7679ZM8.96349 11.2913L8.10247 12.1523L10.3788 14.4287V12.7066L8.96349 11.2913ZM15.7934 18.1213H14.0714L16.3478 20.3976L17.2088 19.5366L15.7934 18.1213Z\" fill=\"white\" fill-opacity=\"0.6\"></path></svg>"
+    },
+    {
+      "index": 18,
+      "viewBox": "0 0 12 12",
+      "width": 15,
+      "height": 15,
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 12 12\" fill=\"none\"><path d=\"M6.95052 3.47108L7.95205 3.42597L7.5955 3.74193L7.59538 3.74179L7.59107 3.74611L4.78026 6.55691C4.6858 6.65138 4.63419 6.76842 4.63381 6.88989C4.63342 7.0114 4.68434 7.12817 4.77794 7.22177C4.87067 7.3145 4.98705 7.36464 5.10811 7.36387C5.22909 7.3631 5.34603 7.31158 5.44047 7.21713L8.25128 4.40632L8.25141 4.40645L8.25546 4.40188L8.57142 4.04534L8.52631 5.04686L8.52617 5.04686L8.52621 5.05209L8.53316 6.10199C8.53316 6.1021 8.53316 6.10221 8.53316 6.10232C8.53324 6.21931 8.57468 6.33847 8.66947 6.43326C8.85262 6.6164 9.12774 6.60969 9.31345 6.42398C9.39878 6.33866 9.4446 6.22473 9.44741 6.09255L9.44744 6.09255L9.44744 6.09039L9.44744 3.03481C9.45002 2.90455 9.40083 2.77828 9.31113 2.68858C9.21945 2.59689 9.09332 2.54736 8.96258 2.54995L5.91627 2.54995L5.91627 2.54993L5.91429 2.54997C5.77402 2.55272 5.65956 2.59778 5.57341 2.68394C5.3877 2.86965 5.38098 3.14477 5.56413 3.32792C5.65891 3.4227 5.77806 3.46414 5.89505 3.46422C5.89516 3.46422 5.89528 3.46423 5.8954 3.46423L6.9453 3.47118L6.9453 3.47132L6.95052 3.47108Z\" fill=\"white\" stroke=\"white\" stroke-width=\"0.202297\"></path><path d=\"M3.4701 6.95052L3.42499 7.95205L3.74095 7.5955L3.74081 7.59538L3.74513 7.59107L6.55594 4.78026C6.6504 4.6858 6.76745 4.63419 6.88891 4.63381C7.01042 4.63342 7.12719 4.68434 7.22079 4.77794C7.31352 4.87067 7.36366 4.98705 7.36289 5.10811C7.36213 5.22909 7.3106 5.34603 7.21615 5.44047L4.40535 8.25128L4.40548 8.25141L4.40091 8.25546L4.04436 8.57142L5.04589 8.52631L5.04588 8.52617L5.05111 8.52621L6.10101 8.53316C6.10112 8.53316 6.10123 8.53316 6.10134 8.53316C6.21834 8.53324 6.3375 8.57468 6.43228 8.66947C6.61543 8.85262 6.60872 9.12774 6.423 9.31345C6.33768 9.39878 6.22376 9.4446 6.09157 9.44741L6.09157 9.44744L6.08942 9.44744L3.03383 9.44744C2.90357 9.45002 2.7773 9.40083 2.6876 9.31113C2.59591 9.21945 2.54639 9.09332 2.54897 8.96258L2.54897 5.91627L2.54895 5.91627L2.54899 5.91429C2.55174 5.77402 2.5968 5.65956 2.68296 5.57341C2.86867 5.3877 3.1438 5.38098 3.32694 5.56413C3.42172 5.65891 3.46317 5.77806 3.46325 5.89505C3.46325 5.89516 3.46325 5.89528 3.46325 5.8954L3.4702 6.9453L3.47034 6.9453L3.4701 6.95052Z\" fill=\"white\" stroke=\"white\" stroke-width=\"0.202297\"></path></svg>"
+    },
+    {
+      "index": 19,
+      "viewBox": "0 0 16 16",
+      "width": "20",
+      "height": "20",
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M15.4805 9.08046C15.4805 11.3207 15.4805 12.4408 15.0445 13.2964C14.661 14.0491 14.0491 14.661 13.2964 15.0445C12.4408 15.4805 11.3207 15.4805 9.08047 15.4805L6.92047 15.4805C4.68026 15.4805 3.56015 15.4805 2.70451 15.0445C1.95186 14.661 1.33994 14.0491 0.956443 13.2964C0.520469 12.4408 0.520469 11.3207 0.520469 9.08047L0.520469 6.92047C0.52047 4.68026 0.52047 3.56015 0.956444 2.70451C1.33994 1.95186 1.95186 1.33994 2.70451 0.956442C3.56016 0.520468 4.68026 0.520468 6.92047 0.520468L9.08047 0.520468C11.3207 0.520468 12.4408 0.520468 13.2964 0.956443C14.0491 1.33994 14.661 1.95186 15.0445 2.70451C15.4805 3.56015 15.4805 4.68026 15.4805 6.92047L15.4805 9.08046Z\" fill=\"url(#paint0_linear_2708_14370)\"></path><path d=\"M10.6202 8.30039C10.6336 9.75313 11.8947 10.2366 11.9086 10.2428C11.898 10.2768 11.7072 10.9318 11.2443 11.6082C10.8442 12.193 10.4288 12.7756 9.77471 12.7878C9.13195 12.7996 8.92524 12.4065 8.1903 12.4065C7.45558 12.4065 7.226 12.7756 6.61747 12.7996C5.98599 12.8235 5.50511 12.1671 5.10167 11.5845C4.27731 10.3926 3.6473 8.21655 4.49322 6.74766C4.91343 6.0182 5.66453 5.55634 6.47969 5.54444C7.09973 5.53262 7.685 5.96156 8.06403 5.96156C8.44283 5.96156 9.15405 5.44568 9.90175 5.52141C10.2148 5.53447 11.0934 5.64783 11.6576 6.47373C11.6122 6.50193 10.6093 7.08581 10.6202 8.30039ZM9.41215 4.73299C9.74736 4.32723 9.973 3.7622 9.91149 3.2002C9.42822 3.21959 8.84388 3.52219 8.4973 3.9278C8.18666 4.28689 7.91466 4.8618 7.98799 5.41269C8.52667 5.45441 9.07686 5.13898 9.41215 4.73299Z\" fill=\"white\"></path><defs><linearGradient id=\"paint0_linear_2708_14370\" x1=\"15.4805\" y1=\"15.4805\" x2=\"0.52047\" y2=\"0.520467\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#56C2FF\"></stop><stop offset=\"1\" stop-color=\"#138AF2\"></stop></linearGradient></defs></svg>"
+    },
+    {
+      "index": 20,
+      "viewBox": "0 0 16 16",
+      "width": "20",
+      "height": "20",
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M15.4805 9.08046C15.4805 11.3207 15.4805 12.4408 15.0445 13.2964C14.661 14.0491 14.0491 14.661 13.2964 15.0445C12.4408 15.4805 11.3207 15.4805 9.08047 15.4805L6.92047 15.4805C4.68026 15.4805 3.56015 15.4805 2.70451 15.0445C1.95186 14.661 1.33994 14.0491 0.956443 13.2964C0.520469 12.4408 0.520469 11.3207 0.520469 9.08047L0.520469 6.92047C0.52047 4.68026 0.52047 3.56015 0.956444 2.70451C1.33994 1.95186 1.95186 1.33994 2.70451 0.956442C3.56016 0.520468 4.68026 0.520468 6.92047 0.520468L9.08047 0.520468C11.3207 0.520468 12.4408 0.520468 13.2964 0.956443C14.0491 1.33994 14.661 1.95186 15.0445 2.70451C15.4805 3.56015 15.4805 4.68026 15.4805 6.92047L15.4805 9.08046Z\" fill=\"url(#paint0_linear_2708_14370)\"></path><path d=\"M3 4.5C3 3.67157 3.67157 3 4.5 3H5.75C6.57843 3 7.25 3.67157 7.25 4.5V11.5C7.25 12.3284 6.57843 13 5.75 13H4.5C3.67157 13 3 12.3284 3 11.5V4.5Z\" fill=\"white\"></path><defs><linearGradient id=\"paint0_linear_2708_14370\" x1=\"15.4805\" y1=\"15.4805\" x2=\"0.52047\" y2=\"0.520467\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#56C2FF\"></stop><stop offset=\"1\" stop-color=\"#138AF2\"></stop></linearGradient></defs></svg>"
+    },
+    {
+      "index": 21,
+      "viewBox": "0 0 16 16",
+      "width": "20",
+      "height": "20",
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M15.4805 9.08046C15.4805 11.3207 15.4805 12.4408 15.0445 13.2964C14.661 14.0491 14.0491 14.661 13.2964 15.0445C12.4408 15.4805 11.3207 15.4805 9.08047 15.4805L6.92047 15.4805C4.68026 15.4805 3.56015 15.4805 2.70451 15.0445C1.95186 14.661 1.33994 14.0491 0.956443 13.2964C0.520469 12.4408 0.520469 11.3207 0.520469 9.08047L0.520469 6.92047C0.52047 4.68026 0.52047 3.56015 0.956444 2.70451C1.33994 1.95186 1.95186 1.33994 2.70451 0.956442C3.56016 0.520468 4.68026 0.520468 6.92047 0.520468L9.08047 0.520468C11.3207 0.520468 12.4408 0.520468 13.2964 0.956443C14.0491 1.33994 14.661 1.95186 15.0445 2.70451C15.4805 3.56015 15.4805 4.68026 15.4805 6.92047L15.4805 9.08046Z\" fill=\"url(#paint0_linear_2708_2690)\"></path><path d=\"M2.61719 4.11621C2.61719 3.28778 3.28876 2.61621 4.11719 2.61621H8.29197C9.1204 2.61621 9.79197 3.28778 9.79197 4.11621V11.8784C9.79197 12.7068 9.1204 13.3784 8.29197 13.3784H4.11719C3.28876 13.3784 2.61719 12.7068 2.61719 11.8784V4.11621Z\" fill=\"white\"></path><defs><linearGradient id=\"paint0_linear_2708_2690\" x1=\"15.4805\" y1=\"15.4805\" x2=\"0.52047\" y2=\"0.520467\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#56C2FF\"></stop><stop offset=\"1\" stop-color=\"#138AF2\"></stop></linearGradient></defs></svg>"
+    },
+    {
+      "index": 22,
+      "viewBox": "0 0 16 16",
+      "width": "20",
+      "height": "20",
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M0.519531 6.91954C0.519531 4.67932 0.519531 3.55922 0.955505 2.70357C1.339 1.95092 1.95092 1.339 2.70357 0.955505C3.55922 0.519531 4.67932 0.519531 6.91953 0.519531H9.07953C11.3197 0.519531 12.4398 0.519531 13.2955 0.955505C14.0481 1.339 14.6601 1.95092 15.0436 2.70357C15.4795 3.55922 15.4795 4.67932 15.4795 6.91953V9.07953C15.4795 11.3197 15.4795 12.4398 15.0436 13.2955C14.6601 14.0481 14.0481 14.6601 13.2955 15.0436C12.4398 15.4795 11.3197 15.4795 9.07953 15.4795H6.91954C4.67932 15.4795 3.55922 15.4795 2.70357 15.0436C1.95092 14.6601 1.339 14.0481 0.955505 13.2955C0.519531 12.4398 0.519531 11.3197 0.519531 9.07953V6.91954Z\" fill=\"url(#paint0_linear_2708_15051)\"></path><path d=\"M5 8V11H8\" stroke=\"white\" stroke-width=\"1.34\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M11 8L11 5L8 5\" stroke=\"white\" stroke-width=\"1.34\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><defs><linearGradient id=\"paint0_linear_2708_15051\" x1=\"0.519531\" y1=\"0.519531\" x2=\"15.4795\" y2=\"15.4795\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#56C2FF\"></stop><stop offset=\"1\" stop-color=\"#138AF2\"></stop></linearGradient></defs></svg>"
+    },
+    {
+      "index": 23,
+      "viewBox": "0 0 16 16",
+      "width": 20,
+      "height": 20,
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M4.502 10.037v1.46L1 7.996l.734-.728 2.768 2.77Zm1.461 1.46h-1.46L8.004 15l.73-.73-2.772-2.772ZM14.27 8.73 15 8 8.002 1l-.73.73 2.765 2.77H8.365l-1.93-1.93-.73.73 1.201 1.202H6.07v5.431h5.43v-.84l1.203 1.203.73-.73-1.932-1.933V5.961l2.77 2.768ZM4.868 4.134l-.73.73.783.784.73-.73-.783-.784Zm6.215 6.215-.728.73.784.783.73-.73-.786-.783ZM3.3 5.701l-.73.73 1.931 1.933V6.902l-1.2-1.2Zm5.797 5.797H7.636l1.932 1.932.73-.731-1.2-1.201Z\" clip-rule=\"evenodd\"></path></svg>"
+    },
+    {
+      "index": 24,
+      "viewBox": "0 0 16 16",
+      "width": 20,
+      "height": 20,
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M6.075 2.75H4.75a2 2 0 0 0-2 2v7.5a2 2 0 0 0 2 2h6.5a2 2 0 0 0 2-2v-7.5a2 2 0 0 0-2-2H9.925m-.04.275-.292 1.023A1.657 1.657 0 0 1 8 5.25v0c-.74 0-1.39-.49-1.593-1.202l-.293-1.023a1 1 0 0 1 .962-1.275h1.848a1 1 0 0 1 .962 1.275Z\"></path></svg>"
+    },
+    {
+      "index": 25,
+      "viewBox": "0 0 16 16",
+      "width": 20,
+      "height": 20,
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" d=\"M5.75 10C10 10 10 5.75 10 5.75S10 10 14.25 10C10 10 10 14.25 10 14.25S10 10 5.75 10ZM4 1.75S4 4 1.75 4C4 4 4 6.25 4 6.25S4 4 6.25 4C4 4 4 1.75 4 1.75Z\"></path><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M5.75 10C10 10 10 5.75 10 5.75S10 10 14.25 10C10 10 10 14.25 10 14.25S10 10 5.75 10ZM4 1.75S4 4 1.75 4C4 4 4 6.25 4 6.25S4 4 6.25 4C4 4 4 1.75 4 1.75Z\"></path></svg>"
+    },
+    {
+      "index": 26,
+      "viewBox": "0 0 16 16",
+      "width": 20,
+      "height": 20,
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M5.75 9.5s.656 1.25 2.25 1.25c1.594 0 2.25-1.25 2.25-1.25m4-1.5a6.25 6.25 0 1 1-12.5 0 6.25 6.25 0 0 1 12.5 0Z\"></path><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.5 6a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0ZM10.5 6a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Z\"></path></svg>"
+    },
+    {
+      "index": 27,
+      "viewBox": "0 0 16 16",
+      "width": 20,
+      "height": 20,
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M13.25 12.25v-8.5a2 2 0 0 0-2-2h-6.5a2 2 0 0 0-2 2v8.5a2 2 0 0 0 2 2h6.5a2 2 0 0 0 2-2Z\"></path><path fill=\"currentColor\" d=\"M4.75 6.5a.5.5 0 0 1 .5-.5h.5a.5.5 0 0 1 .5.5V7a.5.5 0 0 1-.5.5h-.5a.5.5 0 0 1-.5-.5v-.5ZM4.75 9a.5.5 0 0 1 .5-.5h.5a.5.5 0 0 1 .5.5v.5a.5.5 0 0 1-.5.5h-.5a.5.5 0 0 1-.5-.5V9ZM4.75 11.5a.5.5 0 0 1 .5-.5h.5a.5.5 0 0 1 .5.5v.5a.5.5 0 0 1-.5.5h-.5a.5.5 0 0 1-.5-.5v-.5ZM7.25 6.5a.5.5 0 0 1 .5-.5h.5a.5.5 0 0 1 .5.5V7a.5.5 0 0 1-.5.5h-.5a.5.5 0 0 1-.5-.5v-.5ZM7.25 9a.5.5 0 0 1 .5-.5h.5a.5.5 0 0 1 .5.5v.5a.5.5 0 0 1-.5.5h-.5a.5.5 0 0 1-.5-.5V9ZM7.25 11.5a.5.5 0 0 1 .5-.5h.5a.5.5 0 0 1 .5.5v.5a.5.5 0 0 1-.5.5h-.5a.5.5 0 0 1-.5-.5v-.5ZM9.75 6.5a.5.5 0 0 1 .5-.5h.5a.5.5 0 0 1 .5.5V7a.5.5 0 0 1-.5.5h-.5a.5.5 0 0 1-.5-.5v-.5ZM9.75 9a.5.5 0 0 1 .5-.5h.5a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-.5.5h-.5a.5.5 0 0 1-.5-.5V9Z\"></path></svg>"
+    },
+    {
+      "index": 28,
+      "viewBox": "0 0 16 16",
+      "width": 20,
+      "height": 20,
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M3.75 1A2.75 2.75 0 0 0 1 3.75v8.5A2.75 2.75 0 0 0 3.75 15h8.5A2.75 2.75 0 0 0 15 12.25v-8.5A2.75 2.75 0 0 0 12.25 1zM2.5 3.75c0-.69.56-1.25 1.25-1.25h8.5c.69 0 1.25.56 1.25 1.25v8.5c0 .69-.56 1.25-1.25 1.25h-8.5c-.69 0-1.25-.56-1.25-1.25zM4 5a1 1 0 0 1 1-1h1.5a1 1 0 0 1 1 1v1.5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1zm5.5-1a1 1 0 0 0-1 1v1.5a1 1 0 0 0 1 1H11a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1zm0 4.5a1 1 0 0 0-1 1V11a1 1 0 0 0 1 1H11a1 1 0 0 0 1-1V9.5a1 1 0 0 0-1-1zM5 8.5a1 1 0 0 0-1 1V11a1 1 0 0 0 1 1h1.5a1 1 0 0 0 1-1V9.5a1 1 0 0 0-1-1z\" clip-rule=\"evenodd\"></path></svg>"
+    },
+    {
+      "index": 29,
+      "viewBox": "0 0 16 16",
+      "width": 16,
+      "height": 16,
+      "className": "[object SVGAnimatedString]",
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M0 0h7.584v7.584H0zm8.416 0h7.583v7.584H8.416zm-.832 8.416H0V16h7.584zm.832 0h7.583V16H8.416z\" clip-rule=\"evenodd\"></path></svg>"
+    }
+  ]
+}

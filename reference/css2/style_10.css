@@ -1,0 +1,1 @@
+.vXIR5q_disc{transition:transform 1.5s cubic-bezier(.165,.84,.44,1);transform:translateY(63px)translateZ(0)}.vXIR5q_activeDisc{animation:3s ease-in-out 1.5s infinite vXIR5q_float;transform:translateY(0)translateZ(0)}@keyframes vXIR5q_float{0%,to{transform:translateY(0)}50%{transform:translateY(5px)}}

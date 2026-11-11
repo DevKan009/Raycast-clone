@@ -1,0 +1,1016 @@
+[
+  {
+    "index": 0,
+    "tag": "script",
+    "id": "",
+    "className": "",
+    "headings": [],
+    "linksCount": 0,
+    "links": [],
+    "buttons": [],
+    "imageCount": 0,
+    "images": [],
+    "svgCount": 0,
+    "textPreview": "self.__wrap_n=self.__wrap_n||(self.CSS&&CSS.supports(\"text-wrap\",\"balance\")?1:2);self.__wrap_b=(a,b,c)=>{let d=null==(c=c||document.querySelector(`[data-br=\"${a}\"]`))?void 0:c.parentElement;if(!d)return;let e=a=>c.style.maxWidth=a+\"px\";c.style.maxWidth=\"\";let f=d.clientWidth,g=d.clientHeight,h=f/2-."
+  },
+  {
+    "index": 1,
+    "tag": "div",
+    "id": "",
+    "className": "dW8jfW_flashContainer",
+    "headings": [],
+    "linksCount": 0,
+    "links": [],
+    "buttons": [],
+    "imageCount": 0,
+    "images": [],
+    "svgCount": 0,
+    "textPreview": ""
+  },
+  {
+    "index": 2,
+    "tag": "div",
+    "id": "navbar",
+    "className": "pSp8Ga_container",
+    "headings": [],
+    "linksCount": 13,
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Store",
+        "href": "/store"
+      },
+      {
+        "text": "Pro",
+        "href": "/pro"
+      },
+      {
+        "text": "AI",
+        "href": "/core-features/ai"
+      },
+      {
+        "text": "iOS",
+        "href": "/ios"
+      },
+      {
+        "text": "Windows",
+        "href": "/windows"
+      },
+      {
+        "text": "Teams",
+        "href": "/teams"
+      },
+      {
+        "text": "Enterprise",
+        "href": "/enterprise"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Log in",
+        "href": "/users/sign_in"
+      },
+      {
+        "text": "Download",
+        "href": "/download/windows"
+      },
+      {
+        "text": "Log in",
+        "href": "/users/sign_in"
+      }
+    ],
+    "buttons": [],
+    "imageCount": 0,
+    "images": [],
+    "svgCount": 3,
+    "textPreview": "StoreProAIiOSWindowsTeamsEnterpriseBlogPricingLog inDownloadLog in"
+  },
+  {
+    "index": 3,
+    "tag": "div",
+    "id": "",
+    "className": "H3BVAa_hero",
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "Your shortcut to everything."
+      }
+    ],
+    "linksCount": 2,
+    "links": [
+      {
+        "text": "Download for Windows",
+        "href": "/download/windows"
+      },
+      {
+        "text": "The Raycast Keyboard",
+        "href": "/keyboard"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Install via WinGet"
+      }
+    ],
+    "imageCount": 0,
+    "images": [],
+    "svgCount": 2,
+    "textPreview": "Your shortcut to everything.A collection of powerful productivity tools all within an extendable launcher. Fast, ergonomic and reliable.self.__wrap_n!=1&&self.__wrap_b(\"_R_12dbsnp3b_\",1)Download for WindowsWindows 10+ (x64 or ARM64)Install via WinGetThe Raycast Keyboard"
+  },
+  {
+    "index": 4,
+    "tag": "div",
+    "id": "",
+    "className": "H3BVAa_sectionContainer",
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "Take shortcuts, not detours."
+      }
+    ],
+    "linksCount": 0,
+    "links": [],
+    "buttons": [],
+    "imageCount": 18,
+    "images": [
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2FfeatureBackground.3bxd817ow3sdx.png&w=3840&q=100",
+        "alt": "Frame Background Image",
+        "width": "1793",
+        "height": "1011"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwallpaper.0abiqd6ysuhu6.png&w=48&q=70",
+        "alt": "mini version of desktop wallpaper image that is in the clipboard history",
+        "width": "20",
+        "height": "9"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmangos.062tyil4el1n0.jpeg&w=48&q=70",
+        "alt": "mini version of picture of two mangos",
+        "width": "20",
+        "height": "13"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmagic.0zwq2z389cq09.jpeg&w=48&q=70",
+        "alt": "mini version of a magician with a magic stick and a hat",
+        "width": "20",
+        "height": "11"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmagic-at-your-fingertips.1v4xjucno2nvv.png&w=48&q=70",
+        "alt": "mini version of magic at your fingertips screenshot",
+        "width": "20",
+        "height": "10"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommand-clipboard-history.237roft4bdmk2.png&w=48&q=70",
+        "alt": "Clipboard History Command Icon",
+        "width": "20",
+        "height": "20"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fraycast-package-bg.16e4947vz8jwt.png&w=48&q=70",
+        "alt": "Store Icon",
+        "width": "20",
+        "height": "20"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommand-clipboard-history.237roft4bdmk2.png&w=48&q=70",
+        "alt": "Store Icon",
+        "width": "20",
+        "height": "20"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommand-file-search-16.35r07y0pm2744.png&w=48&q=70",
+        "alt": "Search Files Icon",
+        "width": "20",
+        "height": "20"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcalendar-extension-dark.2n-895efngtnf.png&w=48&q=70",
+        "alt": "Calendar Icon",
+        "width": "20",
+        "height": "20"
+      }
+    ],
+    "svgCount": 24,
+    "textPreview": "Take shortcuts, not detours.One interface, everything you need.Type to filter entries...All TypesSearch...All TypesText OnlyImages OnlyFiles OnlyLinks OnlyColors OnlyTodayImage (1200 x 1000)#FF6363#59D499#56C2FF#FFC531https://raycast.comhttps://github.com/raycast/extensionsThe first Macintosh comput"
+  },
+  {
+    "index": 5,
+    "tag": "div",
+    "id": "",
+    "className": "o1EREW_container",
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "It’s not about saving time."
+      }
+    ],
+    "linksCount": 1,
+    "links": [
+      {
+        "text": "Download",
+        "href": "/download/windows"
+      }
+    ],
+    "buttons": [],
+    "imageCount": 0,
+    "images": [],
+    "svgCount": 30,
+    "textPreview": "It’s not about saving time.It’s about feeling like you’re never wasting it.DownloadescF1F2F3F4F5F6F7F8F9F10F11F12±§!1@2#3$4%5^6&7*8(9)0_-+=deleteFast. Think in milliseconds.Ergonomic.Keyboard First.ERTYUIOP{[}]|\\Personal. Your tools, your way.Reliable. 99.8% crash-free rate.SDFGHJKL:;\",~`ZXCVBNM<,>."
+  },
+  {
+    "index": 6,
+    "tag": "div",
+    "id": "",
+    "className": "_3Yq4tG_container",
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "There’s an extension for that."
+      },
+      {
+        "tag": "h3",
+        "text": "Plus thousands more..."
+      }
+    ],
+    "linksCount": 23,
+    "links": [
+      {
+        "text": "Productivity",
+        "href": "#productivity"
+      },
+      {
+        "text": "Engineering",
+        "href": "#engineering"
+      },
+      {
+        "text": "Design",
+        "href": "#design"
+      },
+      {
+        "text": "Writing",
+        "href": "#writing"
+      },
+      {
+        "text": "LinearCreate, search and modify your issues without leaving your keyboard.",
+        "href": "https://www.raycast.com/linear/linear"
+      },
+      {
+        "text": "Google TranslateUse Google Translate to effortlessly translate into multiple languages",
+        "href": "https://www.raycast.com/gebeto/translate"
+      },
+      {
+        "text": "SpotifySearch for music and podcasts, browse your library, and control playback.",
+        "href": "https://www.raycast.com/mattisssa/spotify-player"
+      },
+      {
+        "text": "ArcNavigate your open tabs or search through your browser history.",
+        "href": "https://www.raycast.com/the-browser-company/arc"
+      },
+      {
+        "text": "TinyPNGCompress the selected images in Finder with TinyPNG.",
+        "href": "https://www.raycast.com/kawamataryo/tinypng"
+      },
+      {
+        "text": "1PasswordEasily grab any password or credential from your 1Password vaults.",
+        "href": "https://www.raycast.com/khasbilegt/1password"
+      },
+      {
+        "text": "JIRAManage your JIRA issues and sprints without leaving your keyboard.",
+        "href": "https://www.raycast.com/raycast/jira"
+      },
+      {
+        "text": "SlackSet your presence, see unread messages and search your chats.",
+        "href": "https://www.raycast.com/mommertf/slack"
+      },
+      {
+        "text": "ZoomSee your upcoming calls and jump straight into them from Raycast.",
+        "href": "https://www.raycast.com/raycast/zoom"
+      },
+      {
+        "text": "TimersStart stopwatches and timers to keep track of your daily tasks.",
+        "href": "https://www.raycast.com/ThatNerd/timers"
+      },
+      {
+        "text": "PomodoroControl pomodoro timers and see the current interval in the menu bar.",
+        "href": "https://www.raycast.com/asubbotin/pomodoro"
+      }
+    ],
+    "buttons": [
+      {
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ],
+    "imageCount": 35,
+    "images": [
+      {
+        "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Flinear-icon.png&w=128&q=70",
+        "alt": "",
+        "width": "56",
+        "height": "56"
+      },
+      {
+        "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Flinear-web.png&w=750&q=70",
+        "alt": "",
+        "width": "360",
+        "height": "360"
+      },
+      {
+        "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-translate-icon.png&w=128&q=70",
+        "alt": "",
+        "width": "56",
+        "height": "56"
+      },
+      {
+        "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-translate-web.png&w=750&q=70",
+        "alt": "",
+        "width": "360",
+        "height": "360"
+      },
+      {
+        "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fspotify-icon.png&w=128&q=70",
+        "alt": "",
+        "width": "56",
+        "height": "56"
+      },
+      {
+        "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fspotify-web.png&w=750&q=70",
+        "alt": "",
+        "width": "360",
+        "height": "360"
+      },
+      {
+        "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Farc-icon.png&w=128&q=70",
+        "alt": "",
+        "width": "56",
+        "height": "56"
+      },
+      {
+        "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Farc-web.png&w=750&q=70",
+        "alt": "",
+        "width": "360",
+        "height": "360"
+      },
+      {
+        "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftiny-png-icon.png&w=128&q=70",
+        "alt": "",
+        "width": "56",
+        "height": "56"
+      },
+      {
+        "src": "/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftiny-png-web.png&w=750&q=70",
+        "alt": "",
+        "width": "360",
+        "height": "360"
+      }
+    ],
+    "svgCount": 21,
+    "textPreview": "There’s an extension for that.Use your favorite tools without even opening them.ProductivityEngineeringDesignWritingLinearCreate, search and modify your issues without leaving your keyboard.Google TranslateUse Google Translate to effortlessly translate into multiple languagesSpotifySearch for music "
+  },
+  {
+    "index": 7,
+    "tag": "div",
+    "id": "",
+    "className": "fHNhKq_root",
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "Meet your new virtual assistant"
+      },
+      {
+        "tag": "h3",
+        "text": "AI Chat"
+      },
+      {
+        "tag": "h3",
+        "text": "Quick AI"
+      },
+      {
+        "tag": "h3",
+        "text": "AI Extensions"
+      }
+    ],
+    "linksCount": 1,
+    "links": [
+      {
+        "text": "Learn more about Raycast AI",
+        "href": "/core-features/ai"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Recent"
+      },
+      {
+        "text": "Sync linear tasks"
+      },
+      {
+        "text": "Create landing page for AI Agents"
+      },
+      {
+        "text": "Compress files"
+      },
+      {
+        "text": "Create Raycast extension"
+      },
+      {
+        "text": "Analyse website traffic"
+      },
+      {
+        "text": "Triage support queries"
+      },
+      {
+        "text": "Convert video"
+      }
+    ],
+    "imageCount": 5,
+    "images": [
+      {
+        "src": "/_next/static/immutable/media/app-linear.14403iqs_49z0.webp",
+        "alt": "",
+        "width": "16",
+        "height": "16"
+      },
+      {
+        "src": "/_next/static/immutable/media/app-things.431g4_1xy5twk.webp",
+        "alt": "",
+        "width": "16",
+        "height": "16"
+      },
+      {
+        "src": "/_next/static/immutable/media/app-linear.14403iqs_49z0.webp",
+        "alt": "",
+        "width": "16",
+        "height": "16"
+      },
+      {
+        "src": "/_next/static/immutable/media/app-linear.14403iqs_49z0.webp",
+        "alt": "",
+        "width": "16",
+        "height": "16"
+      },
+      {
+        "src": "/_next/static/immutable/media/app-things.431g4_1xy5twk.webp",
+        "alt": "",
+        "width": "16",
+        "height": "16"
+      }
+    ],
+    "svgCount": 19,
+    "textPreview": "AI AgentMeet your new virtual assistantRaycast AI uses the tools you already rely on to get work done.Search chatsWebsiteDailyRecentSync linear tasksCreate landing page for AI AgentsCompress filesCreate Raycast extensionAnalyse website trafficTriage support queriesConvert videoSync linear tasksClaud"
+  },
+  {
+    "index": 8,
+    "tag": "div",
+    "id": "",
+    "className": "H3BVAa_sectionContainer",
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "Built for professionals like you."
+      }
+    ],
+    "linksCount": 0,
+    "links": [],
+    "buttons": [],
+    "imageCount": 25,
+    "images": [
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fguillermo.43ehvzlb1iwru.png&w=96&q=70",
+        "alt": "Avatar",
+        "width": "48",
+        "height": "48"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmkbhd.1csz04eivoyhz.jpg&w=96&q=70",
+        "alt": "Avatar",
+        "width": "48",
+        "height": "48"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fkoen.1xb9vpdchb9b3.png&w=96&q=70",
+        "alt": "Avatar",
+        "width": "48",
+        "height": "48"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Favstorm.2pq0kurbwqcso.jpeg&w=96&q=70",
+        "alt": "Avatar",
+        "width": "48",
+        "height": "48"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fadamwathan.33i8fz5y_7ful.png&w=96&q=70",
+        "alt": "Avatar",
+        "width": "48",
+        "height": "48"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwesbos.0l5k6c_jw7s8p.png&w=96&q=70",
+        "alt": "Avatar",
+        "width": "48",
+        "height": "48"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fridd.3n22sqo95ec7s.png&w=96&q=70",
+        "alt": "Avatar",
+        "width": "48",
+        "height": "48"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmxstbr.05qeg4078czy2.png&w=96&q=70",
+        "alt": "Avatar",
+        "width": "48",
+        "height": "48"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fzachholman.39x9pg5pv4kxn.png&w=96&q=70",
+        "alt": "Avatar",
+        "width": "48",
+        "height": "48"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fjustansub.3htnf11a7df9u.jpeg&w=96&q=70",
+        "alt": "Avatar",
+        "width": "48",
+        "height": "48"
+      }
+    ],
+    "svgCount": 1,
+    "textPreview": "Built for professionals like you.Used by seriously productive people.Guillermo Rauch@rauchgCEO, VercelMarques Brownlee@MKBHDCreator, MKBHDKoen Bok@koenbokFounder, FramerAndreas Storm@avstormDesigner & IconographAdam Wathan@adamwathanCreator, Tailwind CSSWes Bos@wesbosCo-host, SyntaxFMRidd@ridd_desig"
+  },
+  {
+    "index": 9,
+    "tag": "div",
+    "id": "",
+    "className": "H3BVAa_sectionContainer",
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "Don't repeat yourself."
+      },
+      {
+        "tag": "h5",
+        "text": "Snippets"
+      },
+      {
+        "tag": "h5",
+        "text": "Quicklinks"
+      },
+      {
+        "tag": "h5",
+        "text": "Hotkeys and Aliases"
+      }
+    ],
+    "linksCount": 0,
+    "links": [],
+    "buttons": [
+      {
+        "text": ""
+      },
+      {
+        "text": "Send"
+      }
+    ],
+    "imageCount": 2,
+    "images": [
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsnippets-blue-glass.12b4c3jsxgqqw.png&w=1920&q=90",
+        "alt": "Blue glass-effect visual backdrop",
+        "width": "800",
+        "height": "643"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fquicklinks-showcase.1-5j8fsgp_l5i.png&w=1200&q=70",
+        "alt": "Screenshot of Raycast showcasing the Figma Scratchad Quick Link",
+        "width": "582",
+        "height": "208"
+      }
+    ],
+    "svgCount": 7,
+    "textPreview": "Don't repeat yourself.Automate the things you do all the time.SnippetsTired of typing the same thing? Create a snippet and insert it by simply typing its keyword.Sure, here you go:3rd Floor 1 Ashley Road, WA14 2DT Altrincham, Cheshire SendQuicklinksSay goodbye to open tabs. Create quicklinks to laun"
+  },
+  {
+    "index": 10,
+    "tag": "div",
+    "id": "",
+    "className": "H3BVAa_sectionContainer",
+    "headings": [],
+    "linksCount": 2,
+    "links": [
+      {
+        "text": "And much, much more.",
+        "href": "./store"
+      },
+      {
+        "text": "Learn more",
+        "href": "/core-features/notes"
+      }
+    ],
+    "buttons": [],
+    "imageCount": 12,
+    "images": [
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fraycast-notes.0khgr6jj73_r6.png&w=3840&q=90",
+        "alt": "Raycast Notes",
+        "width": "1256",
+        "height": "1256"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fflight-tracker.0n21cubrybv-y.png&w=3840&q=90",
+        "alt": "Flight Tracker",
+        "width": "1257",
+        "height": "1256"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcalculator.44iwy8ski7hsb.png&w=3840&q=90",
+        "alt": "Calculator",
+        "width": "1257",
+        "height": "1256"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Ffile-search.1h2o4dmp-4j8e.png&w=3840&q=90",
+        "alt": "File Search",
+        "width": "1257",
+        "height": "1256"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fscript-commands.2n0r8racn9vfn.png&w=3840&q=90",
+        "alt": "Script Commands",
+        "width": "1257",
+        "height": "1256"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwindow-management.1-9qykokmqups.png&w=3840&q=90",
+        "alt": "Window Management",
+        "width": "1257",
+        "height": "1256"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fschedule.1_cr_7zp48ify.png&w=3840&q=90",
+        "alt": "My Schedule",
+        "width": "1257",
+        "height": "1256"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Freminders.120r2-tishh9a.png&w=3840&q=90",
+        "alt": "Apple Reminders",
+        "width": "1257",
+        "height": "1256"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Ftranslator.2-0te7yls0baq.png&w=3840&q=90",
+        "alt": "Translation",
+        "width": "1256",
+        "height": "1256"
+      },
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Ffocus.1ii6df8wrisc6.png&w=3840&q=90",
+        "alt": "Raycast Focus",
+        "width": "1257",
+        "height": "1256"
+      }
+    ],
+    "svgCount": 1,
+    "textPreview": "What else can Raycast do?It can take notes. Track your flights. Convert anything. Search files. Run scripts. Manage your windows. Plan your day. Remind you of stuff. Translate into any language. Block distractions. Find text in screenshots. Insert Emojis. And much, much more.Raycast NotesA quick way"
+  },
+  {
+    "index": 11,
+    "tag": "div",
+    "id": "",
+    "className": "MQiDUG_container",
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "Stay in the loop."
+      },
+      {
+        "tag": "h5",
+        "text": "Slack"
+      },
+      {
+        "tag": "h5",
+        "text": "X/Twitter"
+      }
+    ],
+    "linksCount": 21,
+    "links": [
+      {
+        "text": "Slack37k membersGet the inside track on new features and learn how other people use Raycast.Join",
+        "href": "/community"
+      },
+      {
+        "text": "X/Twitter90k followersKeep up to date with the latest releases, features and improvements.Follow",
+        "href": "https://twitter.com/raycast"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=NZwqx_dS-k0"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=W9FPWzorLyI"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=6knS3y39f7k"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=A4bewhG4724"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=yR2hnn7Ghko"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=NuIpZoQwuVY"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=qobDloop1bg"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=HDQIvbLCF7Y"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=_DxukQdW1yg"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=m5MDv9qwhU8"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=4Hi21ZpdrOc"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=_P1b00n12PU"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=RFwumqHLc8Y"
+      }
+    ],
+    "buttons": [],
+    "imageCount": 19,
+    "images": [
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommunity-background.20de4iisgwlf-.png&w=1920&q=70",
+        "alt": "Background image",
+        "width": "800",
+        "height": "800"
+      },
+      {
+        "src": "https://i.ytimg.com/vi/NZwqx_dS-k0/hqdefault.jpg",
+        "alt": "Introducing Raycast Focus",
+        "width": "",
+        "height": ""
+      },
+      {
+        "src": "https://i.ytimg.com/vi/W9FPWzorLyI/hqdefault.jpg",
+        "alt": "Mastering Quicklinks in Raycast",
+        "width": "",
+        "height": ""
+      },
+      {
+        "src": "https://i.ytimg.com/vi/6knS3y39f7k/hqdefault.jpg",
+        "alt": "Raycast Notes is Finally Out",
+        "width": "",
+        "height": ""
+      },
+      {
+        "src": "https://i.ytimg.com/vi/A4bewhG4724/hqdefault.jpg",
+        "alt": "We Tested Apple's New Window Management Against Raycast",
+        "width": "",
+        "height": ""
+      },
+      {
+        "src": "https://i.ytimg.com/vi/yR2hnn7Ghko/hqdefault.jpg",
+        "alt": "You MUST change these Raycast settings ⚙️",
+        "width": "",
+        "height": ""
+      },
+      {
+        "src": "https://i.ytimg.com/vi/NuIpZoQwuVY/hqdefault.jpg",
+        "alt": "101 Things You Can Do With Raycast",
+        "width": "",
+        "height": ""
+      },
+      {
+        "src": "https://i.ytimg.com/vi/qobDloop1bg/hqdefault.jpg",
+        "alt": "7 more Raycast tricks to level up your productivity",
+        "width": "",
+        "height": ""
+      },
+      {
+        "src": "https://i.ytimg.com/vi/HDQIvbLCF7Y/hqdefault.jpg",
+        "alt": "Kitze shows Pedro his Raycast setup in Barcelona",
+        "width": "",
+        "height": ""
+      },
+      {
+        "src": "https://i.ytimg.com/vi/_DxukQdW1yg/hqdefault.jpg",
+        "alt": "12 months of Raycast Pro 🎉",
+        "width": "",
+        "height": ""
+      }
+    ],
+    "svgCount": 6,
+    "textPreview": "Stay in the loop.Join the community and learn how other people get the most out of Raycast.Slack37k membersGet the inside track on new features and learn how other people use Raycast.JoinX/Twitter90k followersKeep up to date with the latest releases, features and improvements.FollowIntroducing Rayca"
+  },
+  {
+    "index": 12,
+    "tag": "div",
+    "id": "",
+    "className": "H3BVAa_sectionContainer",
+    "headings": [
+      {
+        "tag": "h3",
+        "text": "Build the perfect tools."
+      },
+      {
+        "tag": "h4",
+        "text": "Cross-platform"
+      },
+      {
+        "tag": "h4",
+        "text": "Built-in UI"
+      },
+      {
+        "tag": "h4",
+        "text": "Batteries included"
+      },
+      {
+        "tag": "h4",
+        "text": "Publish to the Store"
+      }
+    ],
+    "linksCount": 6,
+    "links": [
+      {
+        "text": "Our extension API is designed to allow anyone with web development skills to unleash the power of Raycast.Read the docs",
+        "href": "https://developers.raycast.com/"
+      },
+      {
+        "text": "Cross-platformBuild your extension once and make it available to Raycast users on both macOS and Windows.",
+        "href": "/blog/a-technical-deep-dive-into-the-new-raycast"
+      },
+      {
+        "text": "Built-in UIOur UI component library allows you to concentrate on the logic while we push the pixels.",
+        "href": "https://developers.raycast.com/api-reference/user-interface/list"
+      },
+      {
+        "text": "Batteries includedA strongly typed API, hot-reloading and modern tooling that make it a blast to work with.",
+        "href": "https://developers.raycast.com/information/tools/cli"
+      },
+      {
+        "text": "Publish to the StoreSubmit your extension to the Raycast Store and share it with thousands of users.",
+        "href": "https://developers.raycast.com/basics/prepare-an-extension-for-store"
+      },
+      {
+        "text": "Get started",
+        "href": "https://developers.raycast.com/basics/getting-started"
+      }
+    ],
+    "buttons": [],
+    "imageCount": 0,
+    "images": [],
+    "svgCount": 12,
+    "textPreview": "Build the perfect tools.Our extension API is designed to allow anyone with web development skills to unleash the power of Raycast.Read the docsFIG_0FIG_0Cross-platformBuild your extension once and make it available to Raycast users on both macOS and Windows.FIG_0Built-in UIOur UI component library a"
+  },
+  {
+    "index": 13,
+    "tag": "div",
+    "id": "",
+    "className": "rfxe3q_container",
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "Take the short way."
+      }
+    ],
+    "linksCount": 1,
+    "links": [
+      {
+        "text": "Download for Windows",
+        "href": "/download/windows"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Install via WinGet"
+      }
+    ],
+    "imageCount": 0,
+    "images": [],
+    "svgCount": 28,
+    "textPreview": "escF1F2F3F4F5F6F7F8F9F10F11F12±§!1@2#3$4%5^6&7*8(9)0_-+=deleteQWERTYUIOP{[}]|\\ASDFGHJKL:;\",~`ZXCVBNM<,>.?/fncontroloptioncommandcommandoptionTake the short way.Download and use Raycast for free.Download for WindowsWindows 10+ (x64 or ARM64)Install via WinGet"
+  },
+  {
+    "index": 14,
+    "tag": "div",
+    "id": "",
+    "className": "nhiC3q_container",
+    "headings": [
+      {
+        "tag": "h5",
+        "text": "Subscribe to our newsletter."
+      }
+    ],
+    "linksCount": 64,
+    "links": [
+      {
+        "text": "Store",
+        "href": "/store"
+      },
+      {
+        "text": "Pro",
+        "href": "/pro"
+      },
+      {
+        "text": "Teams",
+        "href": "/teams"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Changelog",
+        "href": "/changelog"
+      },
+      {
+        "text": "Browser Extension",
+        "href": "/browser-extension"
+      },
+      {
+        "text": "Developers",
+        "href": "/developers"
+      },
+      {
+        "text": "iOS",
+        "href": "/ios"
+      },
+      {
+        "text": "Windows",
+        "href": "/windows"
+      },
+      {
+        "text": "Raycast 2.0",
+        "href": "/new"
+      },
+      {
+        "text": "API Docs",
+        "href": "https://developers.raycast.com"
+      },
+      {
+        "text": "Manual",
+        "href": "/manual"
+      },
+      {
+        "text": "Troubleshooting",
+        "href": "/troubleshooting"
+      },
+      {
+        "text": "Raycast vs Alfred",
+        "href": "/raycast-vs-alfred"
+      },
+      {
+        "text": "FAQ",
+        "href": "/faq"
+      }
+    ],
+    "buttons": [],
+    "imageCount": 1,
+    "images": [
+      {
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2FisolatedCube.06utybfu6soit.png&w=1920&q=70",
+        "alt": "",
+        "width": "800",
+        "height": "800"
+      }
+    ],
+    "svgCount": 15,
+    "textPreview": "ProductStoreProTeamsPricingChangelogBrowser ExtensionDevelopersiOSWindowsRaycast 2.0API DocsManualTroubleshootingRaycast vs AlfredFAQCore FeaturesRaycast AIRaycast NotesRaycast FocusClipboard HistoryWindow ManagementSnippetsFile SearchQuicklinksCalculatorCalendarSystemEmoji PickerTop ExtensionsDesig"
+  }
+]

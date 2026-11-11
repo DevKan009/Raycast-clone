@@ -1,0 +1,28 @@
+/* Design tokens measured from the live raycast.com stylesheets (see docs/design-tokens.md) */
+:root {
+  --grey-50:#e6e6e6; --grey-100:#cdcece; --grey-200:#9c9c9d; --grey-300:#6a6b6c; --grey-400:#434345;
+  --grey-500:#2f3031; --grey-600:#1b1c1e; --grey-700:#111214; --grey-800:#0c0d0f; --grey-900:#07080a;
+  --red:#ff6363; --blue:#56c2ff;
+  --spacing-0-5:4px; --spacing-1:8px; --spacing-1-5:12px; --spacing-2:16px; --spacing-2-5:20px; --spacing-3:24px;
+  --spacing-4:32px; --spacing-5:40px; --spacing-6:48px; --spacing-7:56px; --spacing-8:64px; --spacing-9:80px;
+  --spacing-10:96px; --spacing-11:112px; --spacing-12:168px; --spacing-13:224px;
+  --rounding-xs:4px; --rounding-sm:6px; --rounding-normal:8px; --rounding-md:12px; --rounding-lg:16px; --rounding-xl:20px; --rounding-xxl:24px;
+  --container-width:1204px; --container-lg-width:1280px; --container-sm-width:1064px; --container-xs-width:746px;
+}
+.btn { gap:8px; min-height:36px; padding:8px 12px; letter-spacing:.2px; white-space:nowrap; cursor:pointer; border-radius:8px; border:none;
+  display:inline-flex; justify-content:center; align-items:center; font-family:inherit; font-size:14px; font-weight:500; line-height:16px;
+  transition:background-image .2s, background-color .2s, box-shadow .2s ease-in-out, transform .1s ease-in-out; text-decoration:none; }
+.btn > svg { width:16px; height:16px; }
+.btn-light { color:var(--grey-500); background:var(--grey-50);
+  box-shadow:0 0 0 2px #00000080, 0 0 14px #ffffff30, inset 0 -1px .4px #0003, inset 0 1px .4px #fff; }
+.btn-light:hover { background:#fff; }
+.btn-light:active { background:var(--grey-100); transform:scale(.98); }
+.btn-light:focus-visible { outline:none; box-shadow:inset 0 -1px .4px #0003, inset 0 1px .4px #fff, 0 0 0 2px #f4f4f4, 0 0 0 2px #00000080, 0 0 14px #ffffff30; }
+:focus-visible { outline:2px solid #ff6363; outline-offset:2px; }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration:.001ms !important; animation-iteration-count:1 !important; transition-duration:.001ms !important; scroll-behavior:auto !important; } }
+
+/* extension card sets are toggled with the hidden attribute */
+[data-cat][hidden] { display: none !important; }
+
+/* dock items are clickable (event-delegated in useShortcuts) */
+[class*="_dock"] [class*="_item"] { cursor: pointer; }
